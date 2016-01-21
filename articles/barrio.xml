@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title >Barrio</title>
+                <author>Andy Rutkowski</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Publisher</publisher>
+                <date when="2014">January 2016</date>
+            </publicationStmt>
+            <notesStmt>
+                <relatedItem><bibl>Barrio Suburbanism Project</bibl></relatedItem>
+            </notesStmt>
+            <sourceDesc><p>Digital or Not</p></sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="article">
+                <p>"mapmapmapmapmapmap.mapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmap"</p>
+                <p>"mapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmap."</p>
+                <p>"mapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmapmap."</p>
+                <head>yep</head>
+                <p>2 yes</p>
+                <p>no</p>
+                <p>yes</p>
+                <p>yes.</p>
+            </div>
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>"internet knows all</bibl>
+                    <bibl>2015</bibl>
+                    <bibl>2016</bibl>
+                </listBibl>
+            </div>
+        </body>
+        <note type="mapmarker">
+            <placeName type="Food and Drink">something</placeName>
+            <geo>-118.23486328125	34.048108084909835</geo>
+            <p>lalalalalalalalalalala.</p>
+        </note>
+        <back>            
+            <div type="images">
+                <figure xml:id="fig1">
+                    <graphic url="../images/boulevardier1.jpg" />
+                    <head>The Boulevardier Cocktail</head>
+                    <note type="attribution"><a href="https://www.flickr.com/photos/edsel_/16164913902">Photo via Flickr user Edsel Little</a></note>
+                </figure>
+                <figure xml:id="fig2">
+                    <graphic url="../images/boulevardier2.jpg" />
+                    <head>Harry's New York Bar, Paris</head>
+                    <note type="attribution"><a href="https://www.flickr.com/photos/kchrist/2893087153">Photo via Flickr user Kenn Wilson</a></note>
+                </figure>
+            </div>
+        </back>
+    </text>
+</TEI>
