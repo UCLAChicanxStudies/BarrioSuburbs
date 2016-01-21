@@ -66,8 +66,7 @@
     "pathBase"  : "articles/",
     "files"     : [
         "railroad-park.xml",
-        "boulevardiercocktail.xml",
-        "barrio.xml"
+        "boulevardiercocktail.xml"
     ]
    }
   , "markers" : {
