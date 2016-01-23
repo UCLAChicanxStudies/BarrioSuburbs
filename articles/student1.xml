@@ -8,18 +8,15 @@
          <titleStmt>
             <title>test</title>
             <author>Author 1</author>
-            <author>Author 2</author>
-            <author>Author 3</author>
          </titleStmt>
          <publicationStmt>
-            <publisher>Colleen Jaurretche</publisher>
-            <date when="2015">Fall 2015</date>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
          </publicationStmt>
          <notesStmt>
             <relatedItem>
                <bibl>
                   <author></author>
-                  <title>Name of the archival collection, Institution</title>
                </bibl>
             </relatedItem>
          </notesStmt>
