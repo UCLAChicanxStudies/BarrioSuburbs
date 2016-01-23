@@ -67,7 +67,8 @@
     "files"     : [
         "railroad-park.xml",
         "boulevardiercocktail.xml",
-        "barrio.xml"
+        "barrio.xml",
+        "student1"
     ]
    }
   , "markers" : {
