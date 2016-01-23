@@ -3,7 +3,7 @@
     "map": {
         "dragging" : true,
         "touchZoom" : false,
-        "scrollWheelZoom" : false,
+        "scrollWheelZoom" : true,
         "doubleClickZoom" : true,
         "boxzoom" : true,
         "trackResize" : true,
