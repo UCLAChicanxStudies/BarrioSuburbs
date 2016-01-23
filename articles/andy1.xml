@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Los Angeles Forest Foothills</title>
-            <author>Andy Rutkowski</author>
+            <title>PUT TITLE HERE</title>
+            <author>PUT YOUR NAME HERE</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,15 +30,15 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>A beautiful place to visit!</p>
+            <p>ARTICLE TEXT GOES HERE...</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Andy Rutkowski">Los Angeles Forest Foothills</placeName>
-            <geo>-117.9107666015625 34.15556807935463</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="arts">TITLE/PLACENAME</placeName>
+            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>TEXT SUMMARY</p>
          </note>
          
@@ -52,7 +52,7 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="http://forestcamping.com/dow/graphics/ang.jpg"/>
+               <graphic url="boxlink.jpg"/>
                <head></head>
                <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
                <figDesc></figDesc>
