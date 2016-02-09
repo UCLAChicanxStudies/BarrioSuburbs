@@ -66,9 +66,19 @@
     "pathBase"  : "articles/",
     "files"     : [
         "barrio.xml",
-        "student1.xml",
         "andy1.xml",
+        "student1.xml",
         "student2.xml"
+        "student1.xml",
+        "student1.xml",
+        "student1.xml",
+        "student1.xml",
+        "student1.xml",
+        "student1.xml",
+        "student1.xml",
+        "student1.xml",
+        "student1.xml",
+        "student1.xml",
     ]
    }
   , "markers" : {
