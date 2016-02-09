@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">"AUTHOR", TITLE, PLACENAME</placeName>
+            <placeName type="student 3">"AUTHOR", TITLE, PLACENAME</placeName>
             <geo>-118.44668313704835 34.07343567128262</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>TEXT SUMMARY</p>
          </note>
