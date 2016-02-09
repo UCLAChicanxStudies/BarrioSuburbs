@@ -16,7 +16,7 @@
          <notesStmt>
             <relatedItem>
                <bibl>
-                  <author></author>
+                  <author>PUT YOUR NAME HERE</author>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Article text goes here...</p>
+            <p>ARTICLE TEXT GOES HERE...</p>
          </div>
       </body>
       
