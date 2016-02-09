@@ -65,11 +65,10 @@
   "articles" : {
     "pathBase"  : "articles/",
     "files"     : [
-        "railroad-park.xml",
-        "boulevardiercocktail.xml",
         "barrio.xml",
         "student1.xml",
-        "andy1.xml"
+        "andy1.xml",
+        "student2.xml"
     ]
    }
   , "markers" : {
