@@ -18,7 +18,7 @@
         "zoomControl" : true
     },
     "tileLayer" : {
-        "url" : "https://{s}.tiles.mapbox.com/v4/andy-rutkowski.odbodjfo{z}/{y}/{x}.png",
+        "url" : "https://a.tiles.mapbox.com/v4/andy-rutkowski.odbodjfo/attribution,zoompan,zoomwheel,geocoder,share.html?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiWDJRMFVUWSJ9.iHl6Cf0M79wmHQlfP6Bk8Q{z}/{y}/{x}.png",
         "opts" : {
             "minZoom" : 0,
             "maxZoom" : 15,
