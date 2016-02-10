@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Euclid Avenue, Ontario CA</title>
+            <author>Kathya Rodriguez</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,22 +30,22 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Euclid Avenue was and still is a vibrant part of Ontario, CA. When settling the colony, George Chaffey made sure that all of the colony's wealth and amenities were evident as soon as visitors arrived. A strip was placed in the center of the avenue to allow the trolley to circulate. This trolley not only allowed settlers to travel from downtown to the citrus yards but it also showed visitors the complex and unique hydroelectric system offered by the colony. Trees were also planted along the strip as part of the beautification projects that place in order to show the colony's prosperity.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Student 15">TITLE/PLACENAME</placeName>
-            <geo>-117.85720825195312 34.24813554589757</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Student 15">"Kathya Rodriguez" Euclid Avenue, Ontario CA</placeName>
+            <geo>-117.65073589999997 34.0081345693387</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Euclid Avenue showed all the amenities the colony offered its settlers, such as a complex hydroelectric system and prosperity.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
+               <bibl>Euclid Ave. Ontario. [ca. 1885]. Photograph. Los Angeles Public Library. Calisphere. 26 Jan 2016. <http://jpg3.lapl.org/pics07/00023253.jpg>.</bibl>
+               <bibl>García, Matt. "The Ideal Country Life: The Development of Citrus Suburbs in Southern California." A World of Its Own: Race, Labor, and Citrus in the Making of Greater Los Angeles, 1900-1970. Chapel Hill, NC: U of North Carolina, 2001. N. pag. Print.</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">1885,Image Courtesy of Los Angles Public Library,http://jpg3.lapl.org/pics07/00023253.jpg</note>
                <figDesc></figDesc>
             </figure>
             
