@@ -18,7 +18,7 @@
         "zoomControl" : true
     },
     "tileLayer" : {
-        "url" : "https://api.mapbox.com/v4/{andy-rutkowski.odbodjfo}{z}/{y}/{x}.png?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiY2lrZ2Y0OGg1MDA5dnZ0a21wYWxxOXF2dyJ9.WCxQWMP4WWzcnveWKL7BOA
+        "url" : "https://{s}.tiles.mapbox.com/v4/{andy-rutkowski.odbodjfo}{z}/{y}/{x}.png",
 ",
         "opts" : {
             "minZoom" : 0,
