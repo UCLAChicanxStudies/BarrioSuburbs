@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Mario Rodriguez">San Fernando Rey de España Mission</placeName>
-            <geo>-118.46124680000003, 34.27324216359048</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.46124680000003 34.27324216359048</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Legacy of San Fernando is founded on the creation of the Mission. The social, political, and economic transformations that occurred because of this early settlement.</p>
          </note>
          
