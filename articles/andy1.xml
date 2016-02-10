@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE</title>
+            <title>This is a title</title>
             <author>Andy Rutkowski</author>
          </titleStmt>
          <publicationStmt>
@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>This article is a little rushed. Problably need to do more research. </p>
          </div>
       </body>
       
@@ -39,7 +39,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Andy Rutkowski">TITLE/PLACENAME</placeName>
             <geo>-118.44792768203126 34.063695056464894</geo><!-- geocoordinates here. !! enter in the latitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <p>Summarizing the text is sometimes difficult.</p>
          </note>
          
          <div type="bibliography">
@@ -52,7 +52,7 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://digital2.library.ucla.edu/dlcontent/latfamiliesphoto/nails/21198-zz002c4kdv_2041618_thumbnail.jpg"/>
                <head></head>
                <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
                <figDesc></figDesc>
