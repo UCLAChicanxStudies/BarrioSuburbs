@@ -18,7 +18,7 @@
         "zoomControl" : true
     },
     "tileLayer" : {
-        "url" : "http://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}.png",
+        "url" : "https://a.tiles.mapbox.com/v4/andy-rutkowski.odbodjfo{z}/{y}/{x}.png",
         "opts" : {
             "minZoom" : 0,
             "maxZoom" : 15,
@@ -57,7 +57,7 @@
             "autoPanPadding" : [5, 5]
         },
         "icon" : {
-            "iconSize" : [42, 47],
+            "iconSize" : [52, 57],
             "iconAnchor" : [17, 36],
             "popupAnchor" : [-1, -32],
             "shadowSize" : [41, 41],
