@@ -58,10 +58,10 @@
             "autoPanPadding" : [5, 5]
         },
         "icon" : {
-            "iconSize" : [52, 57],
+            "iconSize" : [62, 77],
             "iconAnchor" : [17, 36],
             "popupAnchor" : [-1, -32],
-            "shadowSize" : [41, 41],
+            "shadowSize" : [61, 61],
             "shadowAnchor" : [16, 43]
         },
         "opacity" : 1,
