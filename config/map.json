@@ -23,7 +23,7 @@
             "minZoom" : 0,
             "maxZoom" : 15,
             "errorTileUrl" : "img/error-tile-image.png",
-            "attribution" : "<a target=\"_blank\" href=\"http://www.arcgisonline.com\">ArcGIS</a>",
+            "attribution" : "<a target=\"_blank\" href=\"http://www.mapbox.com\">MapBox</a>",
             "subdomains" : ["a", "b", "c", "d"],
             "detectRetina" : true
         }
