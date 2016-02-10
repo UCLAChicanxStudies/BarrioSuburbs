@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Lincoln Heights</title>
+            <author>Michelle Rolon</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,16 +30,16 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Classified as one of the first suburbs to exist in the outskirts of the Los Angeles area, Lincoln Heights is a traditional region that holds notable and conserved history of its beginning and current identification as a suburb. Lincoln Heights represented the ideal suburban utopia of the early eighteenth century Angeleno with homes that were in traditional Victorian architecture, wide and open spaces for parks and lakes, and various leisure activities located through out the neighborhood. Through out the years this community has continued forth as a suburb, but has been constantly reshaped by various groups that include through Chican@ and Latin@ urbanism. It is evident to see the repetitive historical cycle of rotating cultural communities that start to live in suburbs closer to the city while previous residents take flight to other areas. Overall, racial and cultural factors continue to compile and keep Lincoln Heights alive. </p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Student 17">TITLE/PLACENAME</placeName>
-            <geo>-118.2733154296875 34.0344526096765</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Student 17">"Michelle Rolon" Lincoln Heights</placeName>
+            <geo>-118.21150929999999 34.0739389</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Lincoln Heights is a traditional area that holds notable preserved history of its beginning and present identification as a suburb.</p>
          </note>
          
          <div type="bibliography">
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Map by L.A. Hotel and Travel Bureau, 1894, Courtesy of the Library of Congress and Big Map Blog, http://www.kcet.org/updaily/socal_focus/history/la-as-subject/who-moved-east-la.html</note>
                <figDesc></figDesc>
             </figure>
             
