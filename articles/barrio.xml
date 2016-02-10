@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>test</title>
-            <author>Test 1</author>
+            <title>Title</title>
+            <author>Author</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -16,7 +16,7 @@
          <notesStmt>
             <relatedItem>
                <bibl>
-                  <author>PUT YOUR NAME HERE</author>
+                  <author></author>
                </bibl>
             </relatedItem>
          </notesStmt>
@@ -30,23 +30,25 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis convallis justo, non mollis orci feugiat id. Vivamus nec porttitor nisl. Sed fringilla, leo id interdum congue, lacus turpis mollis orci, nec malesuada neque lorem venenatis ante. Proin tempor libero non consectetur bibendum. In congue dolor et molestie laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis convallis justo, non mollis orci feugiat id. Vivamus nec porttitor nisl. Sed fringilla, leo id interdum congue, lacus turpis mollis orci, nec malesuada neque lorem venenatis ante. Proin tempor libero non consectetur bibendum. In congue dolor et molestie laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis convallis justo, non mollis orci feugiat id. Vivamus nec porttitor nisl. Sed fringilla, leo id interdum congue, lacus turpis mollis orci, nec malesuada neque lorem venenatis ante. Proin tempor libero non consectetur bibendum. In congue dolor et molestie laoreet.</p>
+            <P> second paragraph </P>
+            
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="barrio">Article title, Placename</placeName>
-            <geo>-118.45115661621094 33.97582290387969</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Brief description, quote, or summary here.</p>
+            <placeName type="barrio">Genevieve Carpio, Los Angeles City Hall</placeName>
+            <geo>-118.243 34.0536</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis convallis justo, non mollis orci feugiat id. Vivamus nec porttitor. </p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>mla format...</bibl>
+               <bibl>mla format 2...</bibl>
+               <bibl>mla format 3...</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +56,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">Creator, date. Image courtesy of ...</note>
+               <note type="attribution">Genevieve Carpio, 22 Janaury 2016, Courtesy of Genevieve Carpio ...</note>
                <figDesc></figDesc>
             </figure>
             
