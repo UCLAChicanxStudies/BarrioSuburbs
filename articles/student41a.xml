@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jurupa Valley Dog Park</title>
+            <author>Jose Cardona</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Jurupa Valley is California's newest city; it is located in the upper western region of Riverside County (Jurupa Valley). It is a city that has a Hispanic population of 68.9%; also, 55.6% of the population speak another language other than English at home (US Census). Despite the the high number of Latinos, the city is still governed by an all white city council, which is similar to what we read in Fulton's text. Most of the Hispanic population is Mexican and is spread out fairly even throughout the city with exception of a higher concentration in Rubidoux and a absence in the Indian Hills area (Policy Map). Furthermore, only 10% of the population have a bachelor's degree and the median per capita income is $19,744 (US Census). When researching the city of Jurupa Valley, themes relating to racial apartheid, the rise of agriburbs, colonies, and the industrial suburb all arise.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Student 4">Jose Cardona, Jurupa Valley Dog Park</placeName>
+            <geo>-117.429 33.987</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Jurupa Valley is a city with a large Latino population that shares characteristics with historically discriminated communities.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>“PolicyMappingMexicanMales.” Policymap.com. 2010, 2009. Web. 4 Jan 2016.</bibl>
+               <bibl>“City of Jurupa Valley About the City History.” City of Jurupa Valley About The City History. N.p., n.d. Web. 8 Feb. 2016.</bibl>
+               <bibl>“American Factfinder - Community Facts.” American FactFinder - Community Facts. N.p., n.d. Web. 8 Feb. 2016.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">The City of Jurupa Valley, 8/21/2014, Image Courtesy of The City of Jurupa Valley, http://jurupavalley.org/Portals/21/Images/Pictures/0815.jpg</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
