@@ -18,7 +18,8 @@
         "zoomControl" : true
     },
     "tileLayer" : {
-        "url" : "https://andyrutkowski.cartodb.com/api/v2/viz/e2e138c0-979b-11e5-b832-0e5db1731f59/viz.json{z}/{y}/{x}.png",
+        "url" : "https://api.mapbox.com/v4/{andy-rutkowski.odbodjfo}{z}/{y}/{x}.png?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiY2lrZ2Y0OGg1MDA5dnZ0a21wYWxxOXF2dyJ9.WCxQWMP4WWzcnveWKL7BOA
+",
         "opts" : {
             "minZoom" : 0,
             "maxZoom" : 15,
