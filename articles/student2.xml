@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Boyle Heights</title>
+            <author>Hilda Arteaga</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,16 +30,16 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The demand for more manufacturing space caused the relocation of communities into Boyle Heights. The percentage of Latinos today is 94.0% which exceeds the white population of 2.0% and other at 0.7%.  The average number of people per household is about 3.8 and the average income is between 700-2,000. There is a significant disparity in race, for instance, the total population comes in at around 45,903, the non-Hispanic or Latino population make up for 1,049, while the Mexican population constitutes the majority at 39,724 and the other Hispanic and Latino population combined makeup for about 5,014, which included Puerto Ricans and Cubans. However, the gender difference was only about 200, where women made up 22,866 and men 23,037 and as far as the housing repair conditions were concerned, they ranged from poor to fair. I also found similar job occupations which included, factory workers, laborers, some businessmen, and WPA workers.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Student 2">TITLE/PLACENAME</placeName>
-            <geo>-118.51913452148438 34.0850806205149</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Hilda Arteaga">Boyle Heights</placeName>
+            <geo>--118.21574885000001 34.03411388243294</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p> Percentage of latinos 94.0% and 2.0% white. Average income 700-2000. Women constitute 22,866 and men 23,037.  Poor/fair housing conditions.</p>
          </note>
          
          <div type="bibliography">
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">get source of picture not me calisphere . . . </note>
                <figDesc></figDesc>
             </figure>
             
