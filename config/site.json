@@ -65,7 +65,6 @@
   "articles" : {
     "pathBase"  : "articles/",
     "files"     : [
-        "barrio.xml",
         "andy1.xml",
         "student1.xml",
         "andy1a"
