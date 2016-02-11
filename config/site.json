@@ -65,8 +65,7 @@
   "articles" : {
     "pathBase"  : "articles/",
     "files"     : [
-        "andy1.xml",
-        "student1.xml"
+        "andy1.xml"
     ]
    }
   , "markers" : {
