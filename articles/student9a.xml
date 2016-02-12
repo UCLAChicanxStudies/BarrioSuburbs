@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rosemead Chamber of Commerce</title>
+            <author>Kathryn Loutzenheiser</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Rosemead is situated in the San Gabriel Valley and borders surrounding inner-ring suburbs such as Monterey Park and South El Monte. Rosemead’s Asian and Latina/o populations have increased considerably in the past century due to factors such as weakening de jure and de facto segregation, increases in immigration rates into suburbs rather than urban areas, and white flight.1 Rosemead is a part of the land inhabited by the Tongva before the conquest by the Spanish and the creation of the San Gabriel Mission whose iconographic echoes can be seen in Rosemead and the surrounding San Gabriel Valley.2 Rosemead was a part of the historical “citrus belt” that employed multiethnic populations including Asian and Latina/o populations which is tied into the current demographic makeup of the suburb.3 Its restaurant and business sectors are a part of the built landscape that mirror the multiethnic histories that this suburb is built upon.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Kathryn Loutzenheiser">"Kathryn Loutzenheiser" Rosemead Chamber of Commerce</placeName>
+            <geo>-118.07796789999998 34.0798918</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Rosemead’s history as an inner-ring citrus belt suburb with exclusionary racial covenants is challenged by its present multiethnic population and landscapes.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. Routledge, 2005.</bibl>
+               <bibl>Rosemead Chamber of Commerce. Web. 24 Jan. 2016.</bibl>
+               <bibl>Garcia, Matt. A World of Its Own: Race, Labor, and Citrus in the Making of Greater Los Angeles, 1900 to 1970. Chapel Hill: The University of North Carolina Press, 2001.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Kathryn Loutzenheiser, 10 February 2016, Courtesy of Rosemead Chamber of Commerce.</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
