@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Santa Ana's Fourth Street</title>
+            <author>Kevin Martinez</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Santa Ana, California is a working class suburb situated within middle and upper class suburbs in Orange County.  The city is mainly comprised of people from a Latino background, the majority from Mexican decent.  It’s residents work blue-collar jobs that reside within the high dense suburb. Santa Ana, like many other places in the citrus belt, experienced some sort of segregation in the first part of the 20th century, particularity residents from a Mexican background. Presently, Santa Ana’s Downtown and its border neighborhoods have experience increase investment, resulting in new homes being built and diversifying the local population. In the last twenty years, “Santa Ana became one of the ten cities with the highest percentage of Latinos in the Unites States” (Guzman). Situated between white suburbia in Orange County, Chicano urbanism created a new major barrio, with over 350,000 Latinos.</p>
+
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Kevin Martinez">Kevin Martinez La Cuantro-East End</placeName>
+            <geo>-117.86760 33.74800</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>In the blocks perpendicular to Main Street between First and Fifth Street you find the Downtown area. Many know this area as “La Cuatro”, which translates for “Fourth” in Spanish. This is the street where the majority of the mom and popshops are.  This region is rich in culture and is where people go to get a small taste of Mexico.  Every year this area hosts two major events that cater to its Latino residents, “Cinco de Mayo Fair” and the “Dia de La Independencia Fair”. On Third Street, they frequently schedule art walks where local artist bring in their pieces and get a chance to sell them or get exposure to the abundant of art collectors that come by. Downtown Santa Ana have experience a boom in investment. High price condos have been built in and around the downtown area.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Guzmán, Betsy. The Hispanic Population, 2000. Washington, D.C.: U.S. Dept. of Commerce, Economics and Statistics Administration, U.S. Census Bureau, 2001. Print.</bibl>
+               <bibl>Citation 2...</bibl>
+               <bibl>Citation 3...</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Kevin Martinez, 8 Ferbuary 2016, Courtesy of Kevin Martinez</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
