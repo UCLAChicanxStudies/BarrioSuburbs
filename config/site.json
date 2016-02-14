@@ -67,7 +67,9 @@
     "files"     : [
         "andy.xml",
         "student1a.xml",
+        "student1b.xml",
         "student2a.xml",
+        "student2b.xml",
         "student3a.xml",
         "student4a.xml",
         "student5a.xml",
