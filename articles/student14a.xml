@@ -39,14 +39,14 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Monica Rodas">Monica Rodas Highland Park</placeName>
             <geo>-118.01651000976562 33.98550244004419</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Highland Park is one of the Latino suburbs in the Los Angeles region and consists of 74 percent of Latino residents. The neighborhood has utilized different spaces to preserve Latino values and culture, such as the use of recreational centers and commerce. Highland Park offers a mix of suburban and urban characteristics through its close proximity to DTLA and creates a connection between other Latino enclaves in the Los Angeles region. Although there are other racial groups present within the Highland Park community, it remains predominantly Latino and has not experienced drastic demographic change. Historically, the neighborhood was predominantly White and minorities were often neglected from the space. Nonetheless, Highland Park is not the typical American suburb and should be seen as a result of Chicana/o urbanism, which has given minorities a place to enjoy suburban life on their own terms.</p>
+            <p>Located within close proximity to DTLA and 74 percent Latino residents, Highland Park became a Latino suburb in result of Chicana/o urbanism in L.A.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. New York: Routledge, 2005.</bibl>
+               <bibl>"Highland Park." Mapping L.A. Los Angeles Times. Web. 27 Jan. 2016.</bibl>
+               <bibl>"Highland Park (Historical GIS)." T-RACES: Demo. Sustainable Archives and Leveraging Technologies. Web. 27 Jan. 2016.</bibl>
             </listBibl>
          </div>
          
