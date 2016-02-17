@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 14c</title>
+            <title>HIGHLAND PARK SENIOR CENTER</title>
             <author>PUT YOUR NAME HERE</author>
          </titleStmt>
          <publicationStmt>
@@ -37,8 +37,8 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Monica Rodas">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="Monica Rodas">Monica Rodas Highland Park Senior Center</placeName>
+            <geo>-118.184556 34.114355</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>TEXT SUMMARY</p>
          </note>
          
