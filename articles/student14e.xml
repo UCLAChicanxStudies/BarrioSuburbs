@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 14e</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>FELI-MEX MARKET</title>
+            <author>Monica Rodas</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Monica Rodas">TITLE/PLACENAME</placeName>
+            <placeName type="Monica Rodas">"Monica Rodas" Feli-Mex Market</placeName>
             <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>TEXT SUMMARY</p>
          </note>
