@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 12d</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Bowers Museum</title>
+            <author>Jorge E. Quiroz Moreno</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,31 +30,37 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The Bowers Museum opened its doors in 1936 through the philanthropy of Santa Ana residents Charles and Ada Bowers. It is located on North Main Street, and is Orange County’s largest museum. It closed from 1986 to 1992 and when it reopened it was to address the communities needs as a cultural center. In 1994 it opened a children’s program, the Kidseum. In 2007 and expansion with the construction of the Dorothy and Donald Kennedy Wing. The museum offers exhibitions, lectures, art classes, travel programs, and children's art education programs. From December 12,2015 through May 29, 2016 it is exhibiting the Popol Vuh: Watercolors of Diego Rivera who in 1931 created a collection of watercolor works illustrating the sacred Mayan book. It is the home of the exhibitions the First Californians, California Legacies: Missions and Ranchos (1768-1848), and the Ceramics of Western Mexico. Also located on North Main Street,The Discovery Science Foundation’s DiscoveryCube of Orange County opened its doors to the community and public in 1991. It is a non-profit organization that’s missions is to educate the minds of children and guiding them in the STEM field.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Jorge E. Quiroz Moreno">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Jorge E. Quiroz Moreno">Bowers Museum</placeName>
+            <geo>-117.86840359999997 33.7631834</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Bowers Museum offers Santa Ana international cultural awareness through the arts and the DiscoveryCube gives access to STEM education.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>>"Bowers Museum - Mission and History." Bowers Museum - Mission & History. Web. 22 Feb. 2016. http://www.bowers.org/index.php/information/mission-history.</bibl>
+               <bibl>"Our Story - Discovery Science Foundation." Discovery Science Foundation RSS2. Web. 22 Feb. 2016. http://www.discoverycube.org/story/.</bibl>
+               <bibl>Di Rado, Alicia. "Children's Museum Project Moves Closer to Fruition : Culture: A Santa Ana Commission Has Tentatively Agreed to Buy a Bank Building That Is to Be the Site of a Facility Run by Bowers Officials and Opened by Fall." Los Angeles Times. Los Angeles Times, 09 Jan. 1994. Web. 22 Feb. 2016. http://articles.latimes.com/1994-01-09/local/me-10271_1_bowers-museum.</bib>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://gdurl.com/00BJ"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Jorge Quiroz, 15 February 2016, Courtest of Jorge Quiroz</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="http://gdurl.com/9wH1"/>
+               <head></head>
+               <note type="attribution">Jorge Quiroz, 15 February 2016, Courtest of Jorge Quiroz</note>
                <figDesc></figDesc>
             </figure>
             
