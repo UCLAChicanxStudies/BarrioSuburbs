@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>BPUSD Adult and Community Education Campus</title>
+            <author>Kany Martinez</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>In this photo, the Baldwin Park Unified School District Adult and Community Education Campus gives the Latino community a lot of resources. They are given courses to better their education from chicano studies to culinary school. The Latino community are also given courses on finance and just any other courses that could better their education.  </p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Gonzalez">"Kany Martinez" (BPUSD Adult and Community Education Campus)</placeName>
+            <geo>-117.959372 34.096690</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Latinos in the community of Baldwin Park have resources to better their education.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Martinez, Kany. BPUSD Adult and Community Education Campus. 2013. Photograph. Panoramio, Baldwin Park, CA.</bibl>
+               <bibl>Citation 2...</bibl>
+               <bibl>Citation 3...</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Kany Martinez, 24 July 2013, Courtesy of Kany Martinez, http://www.panoramio.com/photo/93638276</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
