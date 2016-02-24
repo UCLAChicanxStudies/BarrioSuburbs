@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 1c</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>1889 Boyle Hotel-Cummings Block</title>
+            <author>Bernice Andrade</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,29 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Historic 1889 Boyle Hotel-Cummings Block can be found at the corner of North Boyle Avenue and East First Street. Its Queen Anne style can be credited to architect William R. Norton, who was hired by George Cummings and Sacramenta Cummings to design the four-story building. During this time the hotel became a popular residential and commercial establishment. This is because it was built along the tracks of an adjacent streetcar that connected downtown to First Street. Due to this railroad connection, moving to the outer city became more affordable and accessible. Later in the twentieth century it became known as “Mariachi Hotel” because it housed a majority of Mariachi musicians who worked across the hotel at Mariachi Plaza. Because it is a significant architectural and historical monument that preserves the past history of Boyle Heights, it became Los Angeles Historic-Cultural Monument # 891 on October 24, 2007.  </p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Bernice Andrade">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Bernice Andrade">“Bernice Andrade” 1889 Boyle Hotel-Cummings Block </placeName>
+            <geo>-118.22041919999998 34.0474645</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>1889 Boyle Hotel-Cummings or “Mariachi Hotel,” is a significant architectural and historical monument that preserves Boyle Height’s history. </p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>MariachiPlazaLosAngeles.com. Mariachi Plaza Los Angeles, n.d. Web. 18 Feb. 2016. 
+http://mariachiplazalosangeles.com/site/
+</bibl>
+               <bibl>“Boyle Hotel.” Los Angeles Conservancy. Los Angeles Conservancy, 2016. Web. 18 Feb. 2016
+https://www.laconservancy.org/locations/boyle-hotel
+</bibl>
+               <bibl>Nunez, Yazmin. “Historical Buildings Connect Boyle Heights with its Past.” Boyle Heights 
+Beat: Pulso de Boyle Heights. Boyle Heights Beat, 27 Dec. 2011. Web. 18 Feb. 2016. http://www.boyleheightsbeat.com/historical-buildings-connect-boyle-heights-with-its-past-348
+</bibl>
             </listBibl>
          </div>
          
