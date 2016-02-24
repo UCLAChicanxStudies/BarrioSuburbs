@@ -37,9 +37,9 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Logan">TITLE/PLACENAME</placeName>
+            <placeName type="Kevin Martinez">Logan</placeName>
             <geo>-117.85718 33.75563</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <p>Logan was one of the first Mexican barrios within the city of Santa Ana at a time when the city was segregated by racial fault lines.</p>
          </note>
          
          <div type="bibliography">
