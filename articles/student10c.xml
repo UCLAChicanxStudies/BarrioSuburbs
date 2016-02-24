@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 10c</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Santa Ana Regional Transportation Center</title>
+            <author>Kevin Martinez</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Santa Ana Regional Transportation Center is a passenger rail station and transportation center that serves commuters in the region. Amtrak’s Pacific Surfliner, Metrolink’s Orange County Line and Inland Empire-Orange County Line trains utilize the tracks as part of their daily routes. The station was designed in a Spanish Colonial Revival style that complements much of the region’s buildings from the earlier Spanish era (Great American Stations).The external walls have a stucco finish, the roofs are laid in red Spanish tile, and a light brown stone is used for the trim. In all, the building’s façade retains a mission appearance. Spanish and Mission Revival architecture became quite popular in southern California in the late 19th century. Los Angeles boosters promoted the revitalization movement as a way to connect to the state’s Spanish past, which was romanticized in order to attract settlers from other parts of the country to relocate and to create a regional character (Deverell 142).</p>
          </div>
       </body>
       
@@ -38,14 +38,14 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Kevin Martinez">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <geo>-117.85551 33.75160</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The train station with a Spanish Colonial style is a central transportation hub that commuters utilize on daily bases. </p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
+               <bibl>Deverell, William. Whitewashed Adobe: The Rise of Los Angeles and the Remaking of Its Mexican Past. 1st ed. University of California Press, 2004. Web</bibl>
+               <bibl>"Great American Stations." Santa Ana, CA -. Web. 24 Feb. 2016.</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Kevin Martinez, 8 Ferbuary 2016, Courtesy of Kevin Martinez</note>
                <figDesc></figDesc>
             </figure>
             
