@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Kevin Martinez">TITLE/PLACENAME</placeName>
+            <placeName type="Kevin Martinez">The Train Station</placeName>
             <geo>-117.85551 33.75160</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The train station with a Spanish Colonial style is a central transportation hub that commuters utilize on daily bases. </p>
          </note>
