@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Alberto Loaiza">Plaza Mexico</placeName>
-            <geo>33.928548168567346 -118.21452140808105><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>33.928548168567346 -118.21452140808105></geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Plaza Mexico feels like you’re walking through Mexico City, with the Angel of Independencia of Monten Alba right at entrance. One will never find this swapmeet empty on the weekends.</p>
          </note>
          
@@ -52,7 +52,7 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url=http://s23.postimg.org/6sfo6o02z/IMG_4119.jpg/>
+               <graphic url="http://s23.postimg.org/6sfo6o02z/IMG_4119.jpg"/>
                <head></head>
                <note type="attribution">Alberto Loaiza, 2/24/16, Courtesy of Alberto Loaiza</note>
                <figDesc></figDesc>
