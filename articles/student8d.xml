@@ -52,9 +52,9 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url=http://inourpath.com/photos/photo20.jpg/>
+               <graphic url="http://inourpath.com/photos/photo20.jpg"/>
                <head></head>
-               <note type="attribution">Alberto Loaiza, 2/24/16 Image Courtesy of Jeff Gates </note>
+               <note type="attribution">Alberto Loaiza, 2/24/16 Image Courtesy of Jeff Gates</note>
                <figDesc></figDesc>
             </figure>
             
