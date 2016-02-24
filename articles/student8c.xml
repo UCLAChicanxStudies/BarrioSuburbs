@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Alberto Loaiza">Empty Lot</placeName>
-            <geo>33.929847862778466 -118.22065830230713</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.22065830230713 33.929847862778466</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The empty lot that sits at the edge of Lynwood and at border of Watts is a sign that Alameda is a border with no plans to encourage development of the area.</p>
          </note>
          
