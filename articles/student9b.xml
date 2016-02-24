@@ -39,7 +39,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Kathryn Loutzenheiser">"Kathryn Loutzenheiser" Rosemead Public Library</placeName>
             <geo>-118.0770963 34.0801603</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <p>The Rosemead Public Library acts as a space of interethnic interaction which contributes to Rosemead’s continued multiethnic growth.</p>
          </note>
          
          <div type="bibliography">
