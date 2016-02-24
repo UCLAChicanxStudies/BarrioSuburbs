@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 1d</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>6th Street Bridge</title>
+            <author>Bernice Andrade</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,29 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The Sixth Street Viaduct, better known as the 6th Street Bridge, was developed in 1932. It is approximately 3, 500 feet in length and spans the Los Angeles River, the Santa Ana freeway, various railroad tracks, as well as local streets. Due to its enormous size, the bridge has been noted as an outstanding engineering accomplishment. The 6th Street Bridge has been widely popularized due to its appearances in films such as “Terminator 2: Judgment Day” as well as “Grease.” However, it is also a Historic-Cultural Monument. This bridge is of great importance to Boyle Heights because it is the mechanism by which people have been able to reach downtown Los Angeles. Unfortunately, the bridge is currently in the process of being replaced as a result of seismic vulnerability. A new bridge is expected to be completed by 2019 and will cost approximately $449 million. </p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Bernice Andrade">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Bernice Andrade">“Bernice Andrade” 6th Street Bridge</placeName>
+            <geo>-118.24208279999999 34.0403026</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The 6th street bridge is a significant landmark in Boyle Heights because it provided the means for people to reach downtown LA.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>“History of the Sixth Street Viaduct.” Sixth Street Viaduct Replacement Project Bureau of 
+Engineering. n.p., n.d. Web. 20 Feb. 2016. http://www.sixthstreetviaduct.org/history
+</bibl>
+               <bibl>Lloyd, Jonathan. “Landmark Sixth Street Bridge at End of Historic Road.” NBCUniversal 
+Media, 27 Jan. 2016. Web. 20 Feb. 2016. http://www.nbclosangeles.com/news/local/Sixth-Street-Viaduct-Bridge-366688661.html
+</bibl>
+               <bibl>“Historic 6th Street Bridge in Downtown LA Closed Ahead of Demolition.” CBS Los Angeles. 
+CBS Local Media, 27 Jan. 2016. Web. 20 Feb. 2016. http://losangeles.cbslocal.com/2016/01/27/prep-work-begins-for-demolition-of-historic-6th-street-bridge-in-downtown-la/
+</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +60,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">William Reagh, 1950, Courtesy of Los Angeles Public Library, http://jpg1.lapl.org/pics19/00009370.jpg</note>
                <figDesc></figDesc>
             </figure>
             
