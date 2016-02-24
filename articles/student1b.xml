@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 1b</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Mariachi Plaza</title>
+            <author>Bernice Andrade</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,30 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Mariachi Plaza is the epicenter of Boyle Height’s rich Mexican-American culture. Bounded by three streets, Mariachi Plaza has become a communal space for neighborhoods on East First Street, North Boyle Avenue, and Pleasant Avenue. Since the 1930’s it has functioned as a gathering site for Mariachi musicians in search of work. Today men and women dressed in traditional charro outfits may be spotted entertaining the public with their melodies. Besides providing Mariachi services, the plaza is a center for recreation and commerce. People can purchase goods, food, as well as arts and crafts at the restaurants, shops, and farmers market. People are welcome to walk around and admire the colorfully painted murals located nearby. They may also partake in the community-oriented celebrations, festivals, performances, and events. Essentially, Mariachi Plaza is an example of how communities in Boyle Heights use public space to cater to their social, economic, and cultural needs. </p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Bernice Andrade">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Bernice Andrade">Bernice Andrade Mariachi Plaza</placeName>
+            <geo>-118.21885380000003 34.0473946</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Mariachi Plaza is the epicenter of Boyle Height’s Mexican-American culture. A space used to address social, economic, and cultural needs. </p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>MariachiPlazaLosAngeles.com. Mariachi Plaza Los Angeles, n.d. Web. 18 Feb. 2016. 
+http://mariachiplazalosangeles.com/site/
+</bibl>
+               <bibl>Rojas, James. “A Long History of Creating a Sense of Place at LA’s Latino Triangle Parks: 
+Mariachi Plaza.” Streetsblog LA. Streetsblog, 9 Mar. 2012. Web. 20 Feb. 2016.
+http://la.streetsblog.org/2012/03/09/a-long-history-of-creating-a-sense-of-place-at-las-latino-triangle-parks-mariachi-plaza/
+</bibl>
+               <bibl>Park, J. , Lucero,  T.,  Cheeks,  C.,  Kim,  C.,  Cong-Huyen A.,  Cole  S., . . ..Kiang J. “Mariachi 
+Plaza: The Goal.” “Ethnic” Los Angeles: Comparative Race, Ethnicity, Gender, Sexuality. Scalar, 01 Jun. 2014. Web.  20 Feb. 2016.  http://scalar.usc.edu/works/ethnic-los-angeles/mariachi-plaza
+</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +61,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution"> </note>
                <figDesc></figDesc>
             </figure>
             
