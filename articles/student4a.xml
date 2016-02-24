@@ -39,14 +39,14 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Jose Cardona">Jose Cardona, Jurupa Valley Dog Park</placeName>
             <geo>-117.429 33.987</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Jurupa Valley is a city with a large Latino population that shares characteristics with historically discriminated communities.</p>
+            <p>Jurupa Valley is a city with emerging middle class suburban neighborhoods, old barrios and the largest inland port in the country. </p>
          </note>
          
          <div type="bibliography">
             <listBibl>
                <bibl>“PolicyMappingMexicanMales.” Policymap.com. 2010, 2009. Web. 4 Jan 2016.</bibl>
                <bibl>“City of Jurupa Valley About the City History.” City of Jurupa Valley About The City History. N.p., n.d. Web. 8 Feb. 2016.</bibl>
-               <bibl>“American Factfinder - Community Facts.” American FactFinder - Community Facts. N.p., n.d. Web. 8 Feb. 2016.</bibl>
+               <bibl>Garcia, Matt. A World of Its Own: Race, Labor and Citrus in the Making of Greater Los Angeles, 1900-1970. Chapel Hill ; London: U of North-Carolina, 2001. Print.</bibl>
             </listBibl>
          </div>
          
