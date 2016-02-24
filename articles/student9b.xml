@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Rosemead Public Library</title>
+            <title>Rosemead Trailer Park</title>
             <author>Kathryn Loutzenheiser</author>
          </titleStmt>
          <publicationStmt>
@@ -30,21 +30,21 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>This library is located in a central space with City Hall, the Rosemead Chamber of Commerce, a market plaza and residential spaces on adjacent streets. Inside is a communal Children’s Area with multiple desks. This communal space focused on family interaction is a reflection of Rosemead’s current investment on fostering a diverse city. This is related to the term “contact hypothesis”, defined by Ochoa as “the more frequent the interaction, the less likely the conflict” (Ochoa 127). From a suburb in the 1930s that was exclusively white to a multiethnic majority Asian and Latina/o suburb today, spaces such as a public library contribute to understandings borne from shared space. Visiting on a Saturday afternoon the multiethnic demographics consisted of children, adults and elderly. While exploring the space I came across a manga graphic novel in Spanish which is an interesting window into the mix of cultures situated in Rosemead.</p>
+            <p>This trailer park is one of the multiple trailer parks located in the San Gabriel Valley. The trailer park that I initially chose as a pin because it is where my family lived last year is no longer there which can be correlated with turnover rates of renters and push factors against low income families out of Rosemead. Trailer parks existing in conjunction with residential areas in Rosemead is relevant to its exclusionary history of racial covenants and stratified neighborhoods within the San Gabriel Valley. The work Barrio Urbanism by David Diaz discusses the lack of affordable housing that arose in areas such as the San Gabriel Valley with the rise of Chicana/o urbanism (Diaz 245). A change in the demographics from exclusively white to a multiethnic geographic area signals positive social change but is also intertwined with issues of poverty and overcrowding in suburbs with increasing populations.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Kathryn Loutzenheiser">"Kathryn Loutzenheiser" Rosemead Public Library</placeName>
-            <geo>-118.0770963 34.0801603</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>The Rosemead Public Library acts as a space of interethnic interaction which contributes to Rosemead’s continued multiethnic growth.</p>
+            <placeName type="Kathryn Loutzenheiser">"Kathryn Loutzenheiser" Rosemead Trailer Park</placeName>
+            <geo>-118.07595000000003 34.061785</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Rosemead Trailer Park is situated in the history of housing inequalities that Rosemead was built from.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Ochoa, Gilda L. Becoming Neighbors in a Mexican American Community: Power, Conflict, and Solidarity. University of Texas Press, Austin. 2004.</bibl>
+               <bibl>Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. Routledge, 2005.</bibl>
               
             </listBibl>
          </div>
