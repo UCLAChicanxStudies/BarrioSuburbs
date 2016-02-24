@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">TITLE/PLACENAME</placeName>
+            <placeName type="Gonzalez">Google Images, Mercado Latino Inc.</placeName>
             <geo>-117.996467 34.053466</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The Latinos in Baldwin Park have made it their home by having Mercado Latino in their community.</p>
          </note>
