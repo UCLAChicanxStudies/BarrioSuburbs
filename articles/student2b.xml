@@ -44,7 +44,7 @@
          
          <div type="bibliography">
             <listBibl>
-               <bibl>http://tse4.mm.bing.net/th?id=OIP.M011b3b773b572d63079959fb9afadc0co0&pid=15.1</bibl>
+               <bibl></bibl>
                <bibl>Citation 2...</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
@@ -52,9 +52,9 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://www.walkinginla.com/2007/Sep15/91553.jpg"/>
                <head></head>
-               <note type="attribution">http://tse4.mm.bing.net/th?id=OIP.M011b3b773b572d63079959fb9afadc0co0&pid=15.1</note>
+               <note type="attribution"></note>
                <figDesc></figDesc>
             </figure>
             
