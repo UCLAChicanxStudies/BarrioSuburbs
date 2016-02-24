@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>HIGHLAND PARK SENIOR CENTER</title>
+            <author>Monica Rodas</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The Highland Park Senior Center is located on N. Figueroa St. and York Blvd, offering a space for older residents of Highland Park to participate in organized activities and events in the community center. This is also the meeting location of the Highland Park Neighborhood Council, which focuses on community concerns and special events held within Highland Park.  The Neighborhood Council consists of community volunteers and others, who are stakeholders in the community, and seeks to engage community members in the development of the neighborhood. The council board members are also viewed as a bridge to elected officials, who represents the community and has control over policies that pertain to Highland Park’s political, economic and social development. The council offers a platform for democracy amongst Latinos and other residents to fully participate in community issues and allow community members to voice opinions on various interests the neighborhood council has prioritized.</p>
          </div>
       </body>
       
@@ -38,15 +38,15 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="arts">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <geo>-118.1850 34.11425</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Highland Park Senior Center offers Highland Park’s Neighborhood Council a space to engage residents in community issues and development.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Fulton, William. "Chapter Three: Suburbs of Extraction." The Reluctant Metropolis: The Politics of Urban Growth in Los Angeles. Solano, 1997. Print.</bibl>
+               <bibl>Historic Highland Park Neighborhood Council. Web. 22 Feb. 2016</bibl>
+               <bibl>Kropp, Phoebe. "Chapter Four: The Home." California Viejo: Culture and Memory in a Modern American Place. University of California Press, 2006.</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Monica Rodas, 20 February 2016, Courtesy of Monica Rodas</note>
                <figDesc></figDesc>
             </figure>
             
