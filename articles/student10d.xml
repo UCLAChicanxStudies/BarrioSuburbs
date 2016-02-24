@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 10d</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>The Yost Theatre</title>
+            <author>Kevin Martinez</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,22 +30,22 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The Yost Theater is a Historic Landmark in Santa Ana and is the oldest theater in Orange County. The Yost first opened its doors in 1913 when it opened as The Auditorium. In the same year it was renamed The Clunes. It wasn’t until Ed Yost purchased the theater in 1919 that the name was changed again. Today it still holds the same name, The Yost Theater. In the 1950’s the Golden Age of Mexican Cinema was at its peak. Taking the era in consideration, Luis Olivos Jr, the owner at the time, brought the talents of Mexican cinema to The Yost, which included Antonio Aguilar and Vicente Fernández.  Later in the 1970s, Olivos booked celebrities such as Ike and Tina Turner, Sonny, and Cher. After years of neglect in the 1990’s and 2000’s, in 2007 the Los Angeles Times reported that the Yost Theater would be reopened and serve as a benefit to the community of Santa Ana (Los Angeles Times).</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Kevin Martinez">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Kevin Martinez">The Yost</placeName>
+            <geo>-117.8645 33.74742</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Yost Theater is a Landmark in Santa Ana and is the oldest theater in Orange County. Recent revitalization has increase the venue's popular</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
+               <bibl>10 Interesting Facts About The Yost. About The Yost Theater. Web. 24 Feb. 2016.</bibl>
+               <bibl>16, December. "An Old Theater Is Cast in a New Role." Los Angeles Times. Los Angeles Times, 16 Dec. 2007. Web. 24 Feb. 2016</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Kevin Martinez, 8 Ferbuary 2016, Courtesy of Kevin Martinez</note>
                <figDesc></figDesc>
             </figure>
             
