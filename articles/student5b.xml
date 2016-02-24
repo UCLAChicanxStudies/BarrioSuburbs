@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 5b</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Maywood Park</title>
+            <author>Enrique Carranza</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,23 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Maywood Park is a historical site in the city. It is a place for the children to go and exercise in a safe environment. The park began as a meadow in the 1930’s but was later converted into a baseball field due to the high demand for recreational activates by Maywood residents. By the time the 1950’s came along, this park became home of the Golden State Baseball Association. Eighty years later, this park still stand through community efforts, allowing its residents to have a place where they can have a large open space. The location of Maywood Park offers a wide variety of exercise opportunities such as a Southeast Rio Vista YMCA. The YMCA offers many youth programs and is also very affordable, providing flexible payment plans. Maywood Park and the YMCA are important community resources that help keep kids off the streets and live better and active lives.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Enrique Carranza">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Enrique Carranza">Maywood Park</placeName>
+            <geo> -118.17727088928223 33.98774423422178</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Maywood Park, Home of the Golden State Baseball Association. Located by Southeast Rio Vista YMCA. Resources providing community exercise.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>"City of Maywood." <i>Parks &amp; Recreation Description</i>. N.p., n.d. Web. 10 Feb. 2016.</bibl>
+               <bibl>"Facilities." <i>Facilities</i>. Web. 7 Feb. 2016.</bibl>
+               <bibl>"Get Latitude and Longitude Coordinates." <i>Get Latitude and Longitude Coordinates</i>. Web. 8 Feb. 2016.</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Enrique Carranza, 12 Feburary 2016, Courtesy of Enrique Carranza</note>
                <figDesc></figDesc>
             </figure>
             
