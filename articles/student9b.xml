@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 9b</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Rosemead Public Library</title>
+            <author>Kathryn Loutzenheiser</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,22 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>This library is located in a central space with City Hall, the Rosemead Chamber of Commerce, a market plaza and residential spaces on adjacent streets. Inside is a communal Children’s Area with multiple desks. This communal space focused on family interaction is a reflection of Rosemead’s current investment on fostering a diverse city. This is related to the term “contact hypothesis”, defined by Ochoa as “the more frequent the interaction, the less likely the conflict” (Ochoa 127). From a suburb in the 1930s that was exclusively white to a multiethnic majority Asian and Latina/o suburb today, spaces such as a public library contribute to understandings borne from shared space. Visiting on a Saturday afternoon the multiethnic demographics consisted of children, adults and elderly. While exploring the space I came across a manga graphic novel in Spanish which is an interesting window into the mix of cultures situated in Rosemead.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Kathryn Loutzenheiser">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="Kathryn Loutzenheiser">"Kathryn Loutzenheiser" Rosemead Public Library</placeName>
+            <geo>-118.0770963 34.0801603</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>TEXT SUMMARY</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Ochoa, Gilda L. Becoming Neighbors in a Mexican American Community: Power, Conflict, and Solidarity. University of Texas Press, Austin. 2004.</bibl>
+              
             </listBibl>
          </div>
          
@@ -54,7 +53,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Kathryn Loutzenheiser, 20 February 2016, Courtesy of Kathryn Loutzenheiser</note>
                <figDesc></figDesc>
             </figure>
             
