@@ -45,8 +45,8 @@
          <div type="bibliography">
             <listBibl>
                <bibl>Euclid Ave. Ontario. [ca. 1885]. Photograph. Los Angeles Public Library. Calisphere. 26 Jan 2016. http://jpg3.lapl.org/pics07/00023253.jpg</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>García, Matt. "The Ideal Country Life: The Development of Citrus Suburbs in Southern California." A World of Its Own: Race, Labor, and Citrus in the Making of Greater Los Angeles, 1900-1970. Chapel Hill, NC: U of North Carolina, 2001. N. pag. Print.</bibl>
+               <bibl>Ontario California Euclid Avenue. Ontario, [1946]. Photograph. Pomona Public Library. Calisphere. 21 Feb 2016. <https://calisphere.org/item/ark:/13030/kt700019tr/>.</bibl>
             </listBibl>
          </div>
          
@@ -55,6 +55,19 @@
                <graphic url="http://jpg3.lapl.org/pics07/00023253.jpg"/>
                <head></head>
                <note type="attribution">1885,Image Courtesy of Los Angles Public Library, http://jpg3.lapl.org/pics07/00023253.jpg</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
+
+ <div type="images">
+            <figure xml:id="fig2">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">1946 Image Courtesy of Pomona Public Library, https://calisphere.org/item/ark:/13030/kt700019tr/.</note>
                <figDesc></figDesc>
             </figure>
             
