@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 8d</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>105 Freeway</title>
+            <author>Alberto Loaiza</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,21 +30,21 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The 105 freeway slices right through the middle of the city of Lynwood. Now there’s an exit right off the heart of the inner suburb into Long Beach Blvd providing fast access to several highways on a busy intersection. It wasn’t always good news for the city, back in the 1970’s property owners fought hard to keep their property values up, but it was in vain. It took Caltrans over ten years to cut the city in two. The city experienced “white flight” which only accelerated through construction. With city losing 1,100 homes in property taxes mortgages became affordable to lower income families. A facilitated an opportunity for Latina/os to leave overcrowded inner urban neighborhoods they were previously confined to. With the lifting of restrictive covenants and so many homes available people found homes in the working class suburb of Lynwood California.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Alberto Loaiza">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Alberto Loaiza">105 Freeway</placeName>
+            <geo>33.92495165108027 -118.21012258529663</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The 105 freeway slices right through the middle of the city of Lynwood. It left the city almost bankrupt, but created an opportunity for upward mobility to Latina/os.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
+               <bibl>Dennis McDougal 20, August. "Empty Houses, Dreams : Lynwood: Downhill on the Freeway." Los Angeles Times. Los Angeles Times, 20 Aug. 1989. Web. 27 Jan. 2016.</bibl>
                <bibl>Citation 2...</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
@@ -52,9 +52,9 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url=http://inourpath.com/photos/photo20.jpg/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Alberto Loaiza, 2/24/16 Image Courtesy of Jeff Gates </note>
                <figDesc></figDesc>
             </figure>
             
