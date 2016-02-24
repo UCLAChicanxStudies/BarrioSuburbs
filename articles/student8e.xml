@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Alberto Loaiza">Ricardo Lara Linear Park</placeName>
-            <geo>33.91763351551988 -118.19209814071655</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.19209814071655 33.91763351551988</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Ricardo Lara Linear Park has a dog park, children’s playground, a community garden, and eco-friendly bioswales. Named after Senator Ricardo Lara, a champion for the Latino Community.</p>
          </note>
          
@@ -52,7 +52,7 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url=http://i0.wp.com/comptonherald.com/wp-content/uploads/2015/10/lara-ribbon-cutting-e1444842837802.jpg/>
+               <graphic url="http://i0.wp.com/comptonherald.com/wp-content/uploads/2015/10/lara-ribbon-cutting-e1444842837802.jpg"/>
                <head></head>
                <note type="attribution">Alberto Loaiza, 2/24/16 Image Courtesy of Compton Herald</note>
                <figDesc></figDesc>
