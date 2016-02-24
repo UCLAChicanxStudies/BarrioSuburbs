@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 6d</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Tierra Mia Coffee</title>
+            <author>Gabriel Chan</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,31 +30,38 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Ulysses Romero founded Tierra Mia Coffee in 2008. The coffee shop specializes in Latino-inspired flavors. Their signature drink is their Horchata Latte. Unlike other specialty coffee businesses that established themselves in white middle to higher income neighborhoods, Romero wanted to serve the growing community of Latinos in LA. His stores have been strategically placed in lower and working class neighborhoods where there are also large numbers of Latinos. The stores serve as community gathering places for families and friends in traditionally underserved parts of LA. Recently, Romero launched his own foundation, “Tierra Mia Cares,” which attempts to improve early childhood literacy with nearby schools. This business model is an example of the growing Latino middle class as a source of capital. Romero proves that it is possible to run both a successful and socially-conscious business within the socio-economically diverse Latino community in LA.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Gabriel Chan">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Gabriel Chan">"Gabriel Chan" Huntington Park</placeName>
+            <geo>-118.2249218 33.9785049</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Tierra Mia Coffee’s success is evidence of the growing purchasing power of Latinos. The stores also act as community gathering places.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
-            </listBibl>
+               <bibl>Silva, Valentina. "Bringing It All Back Home: The Rise of the Latino Coffeehouse in Los Angeles." The Guardian. Guardian News and Media, 25 Jan. 2016. Web. 24 Feb. 2016.</bibl>
+               <bibl>Wolfson, Julie. "A Coffee Crawl With Tierra Mia's Ulysses Romero." Sprudge. Sprudge Media Network, 11 Dec. 2015. Web. 24 Feb. 2016.</bibl>
+               
+               </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Raul Romero, n.d., Courtesy of Sprudge Media Network. http://sprudge.com/tierra-mia-90077.html</note>
+               <figDesc></figDesc>
+            </figure>
+            
+            <figure xml:id="fig2">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Tierra Mia Coffee Company, 2014, Courtesy of Tierra Mia Coffee Company. http://tierramiacoffee.com/Huntington_Park.html</note>
                <figDesc></figDesc>
             </figure>
             
