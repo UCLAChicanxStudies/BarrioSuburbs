@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Alberto Loaiza">105 Freeway</placeName>
-            <geo>33.92495165108027 -118.21012258529663</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.21012258529663 33.92495165108027</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The 105 freeway slices right through the middle of the city of Lynwood. It left the city almost bankrupt, but created an opportunity for upward mobility to Latina/os.</p>
          </note>
          
