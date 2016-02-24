@@ -62,11 +62,12 @@
       </back>
    </text>
 </TEI>
+
  <div type="images">
             <figure xml:id="fig2">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">2016, Image Courtesy of Orozco, Luz.</note>
+               <note type="attribution">Orozco, Luz, 2016, Image Courtesy of Orozco, Luz.</note>
                <figDesc></figDesc>
             </figure>
             
