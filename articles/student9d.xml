@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 9d</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Rosemead City Hall</title>
+            <author>Kathryn Loutzenheiser</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Rosemead City Hall is located next to the Rosemead Library and the Rosemead Chamber of Commerce. The sculpture “Reflect” which commemorates the deaths of September 11 along with a Vietnam Veterans Memorial ring the outside of the building. The sculpture consists of hands supporting a beam from the World Trade Center symbolizing the support of emergency responders on that day (City of Rosemead). These memorials serve as reminders to unite a community following the loss of lives but it could also be a vehicle to neglect the additional histories such as the ensuing islamophobia following 9/11 and the loss of life in Vietnam and the diaspora of Vietnamese refugees into locations such as Rosemead with Vietnam being the immigrant population’s most common country of origin (Mapping L.A.).</p>
          </div>
       </body>
       
@@ -38,15 +38,15 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Kathryn Loutzenheiser">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <geo>-118.0763308 34.0803047</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Rosemead City Hall is the official voice of “Today’s Small Town America.”</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>City of Rosemead California. Web. 20 February 2016.</bibl>
+               <bibl>The Los Angeles Times. Mapping Los Angeles. Web. 13 February 2016.</bibl>
+              
             </listBibl>
          </div>
          
@@ -54,7 +54,8 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Kathryn Loutzenheiser, 20 February 2016, Courtesy of Kathryn Loutzenheiser
+</note>
                <figDesc></figDesc>
             </figure>
             
