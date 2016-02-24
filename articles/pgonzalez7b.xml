@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>InNOutBaldwinCA</title>
-            <author>Gonzalez</author>
+            <title>BPUSD Adult and Community Education Campus</title>
+            <author>Kany Martinez</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,21 +30,21 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>In the photo we see a replica of a the original In-N-Out. The original In-N-Out was first established in Baldwin Park and now there are over 300 restaurants across the West Coast. The first In-N-Out had to be demolished in 1954 becayse the I-10 was constructed literally over the restaurant. When the first restaurant was demolished another was built adjacent to teh first one and it remained open until 2004. Later on it was this replica of the first In-N-Out that was built in Baldwin Park.</p>
+            <p>In this photo, the Baldwin Park Unified School District Adult and Community Education Campus gives the Latino community a lot of resources. They are given courses to better their education from chicano studies to culinary school. The Latino community are also given courses on finance and just any other courses that could better their education.  </p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Gonzalez">Charles Hathaway In-N-Out Baldwin Park</placeName>
-            <geo>-117.975 34.0689</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>The replica of the original 1948 In-N-Out Hamburger stand was built.</p>
+            <placeName type="Gonzalez">"Kany Martinez" (BPUSD Adult and Community Education Campus)</placeName>
+            <geo>-117.959372 34.096690</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Latinos in the community of Baldwin Park have resources to better their education.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Hathaway, Charles. In-N-Out Burger Baldwin Park, CA. 2014. Photograph. Baldwin Park, CA.</bibl>
+               <bibl>Martinez, Kany. BPUSD Adult and Community Education Campus. 2013. Photograph. Panoramio, Baldwin Park, CA.</bibl>
                <bibl>Citation 2...</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">Charles Hathaway, 28 October 2014, Courtesy of Charles Hathaway</note>
+               <note type="attribution">Kany Martinez, 24 July 2013, Courtesy of Kany Martinez, http://www.panoramio.com/photo/93638276</note>
                <figDesc></figDesc>
             </figure>
             
