@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>HIGHLAND PARK FLORIST</title>
+            <author>Monica Rodas</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Highland Park Florist is a flower shop located on Ave 56 and Figueroa St, which sells flower arrangements for services, such as weddings, quinceñeras, etc. Along the walls of the business, there is a mural of religious figures, Juan Diego and Virgin Mary, which solidifies the presence of a Latino community/culture through these Catholic icons. This business also brings the barrio “state of mind” into the Latino suburb because it preserves cultural images that are significant in Latino lifestyle and remains connected to past spaces before upward mobility into suburban neighborhoods. These businesses also demonstrate an important key factor of suburbanization because it reveals how suburbs can stand alone and decentralize economic and service activities from urban cities.  Highland Park Florist depicts a power of place as it nurtures residents’ public memory of these old barrios as the culture and people move into the Latino suburbs in Greater Los Angeles.</p>
          </div>
       </body>
       
@@ -38,15 +38,15 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="arts">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <geo>-118.19208 34.11017</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Highland Park Florist depicts barrio “state of mind” and power of place, through murals that hold great significance in Latino communities.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. New York: Routledge, 2005.</bibl>
+               <bibl>Singer, Audrey. "Chapter Two: Toward Suburban Immigrant Nation." Twenty-First Century Gateways: Immigrant Incorporation in Suburban America. Brookings Institution, 2008.</bibl>
+               <bibl>Garcia, Matt. "Chapter Two: The 'Colonia Complex' Revisited." A World of Its Own: Race, Labor, and Citrus in the Making of Greater Los Angeles, 1900-1970. University of North Carolina Press, 2001.</bibl>
             </listBibl>
          </div>
          
