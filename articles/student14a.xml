@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Monica Rodas">Monica Rodas Highland Park</placeName>
-            <geo>-118.01651000976562 33.98550244004419</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.185194 34.115887</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Located within close proximity to DTLA and 74 percent Latino residents, Highland Park became a Latino suburb in result of Chicana/o urbanism in L.A.</p>
          </note>
          
