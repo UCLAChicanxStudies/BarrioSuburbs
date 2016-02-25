@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Rosemead Trailer Park</title>
+                <author>Kathryn Loutzenheiser</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <date when="2015">Winter 2016</date>
+            </publicationStmt>
+            <notesStmt>
+                <relatedItem>
+                    <bibl>
+                        <author></author>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        
+        <body>
+            <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+                <p>This trailer park is one of the multiple trailer parks located in the San Gabriel Valley. The trailer park that I initially chose as a pin because it is where my family lived last year is no longer there which can be correlated with turnover rates of renters and push factors against low income families out of Rosemead. Trailer parks existing in conjunction with residential areas in Rosemead is relevant to its exclusionary history of racial covenants and stratified neighborhoods within the San Gabriel Valley. The work Barrio Urbanism by David Diaz discusses the lack of affordable housing that arose in areas such as the San Gabriel Valley with the rise of Chicana/o urbanism (Diaz 245). A change in the demographics from exclusively white to a multiethnic geographic area signals positive social change but is also intertwined with issues of poverty and overcrowding in suburbs with increasing populations.</p>
+            </div>
+        </body>
+        
+        <back>
+            
+            <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+                <placeName type="Kathryn Loutzenheiser">"Kathryn Loutzenheiser" Rosemead Trailer Park</placeName>
+                <geo>-118.056979 34.080736</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+                <p>The Rosemead Trailer Park is situated in the history of housing inequalities that Rosemead was built from.</p>
+            </note>
+            
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. Routledge, 2005.</bibl>
+                    
+                </listBibl>
+            </div>
+            
+            <div type="images">
+                <figure xml:id="fig1">
+                    <graphic url="boxlink.jpg"/>
+                    <head></head>
+                    <note type="attribution">Kathryn Loutzenheiser, 20 February 2016, Courtesy of Kathryn Loutzenheiser</note>
+                    <figDesc></figDesc>
+                </figure>
+                
+            </div>
+        </back>
+    </text>
+</TEI>
