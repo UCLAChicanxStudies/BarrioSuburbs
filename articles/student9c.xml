@@ -35,7 +35,6 @@
       </body>
       
       <back>
-         
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Kathryn Loutzenheiser">TITLE/PLACENAME</placeName>
             <geo>-118.0712034 34.0841647</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
@@ -46,10 +45,8 @@
             <listBibl>
                <bibl>Great Schools. Web. 23 February 2016.</bibl>
                <bibl>Cheng, Wendy. The Changs Next Door to the Diazes: Remapping Race in Suburban California. Minnesota Press, 2013.</bibl>
-              
             </listBibl>
          </div>
-         
          <div type="images">
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
@@ -57,7 +54,6 @@
                <note type="attribution">Kathryn Loutzenheiser, 20 February 2016, Courtesy of Kathryn Loutzenheiser</note>
                <figDesc></figDesc>
             </figure>
-            
          </div>
       </back>
    </text>
