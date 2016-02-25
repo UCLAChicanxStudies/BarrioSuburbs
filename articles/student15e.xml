@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 15e</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Our Lady of Guadalupe Catholic Church</title>
+            <author>Kathya Rodriguez</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,23 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Our Lady of Guadalupe Catholic Church is located south of downtown Ontario and it is one of the main churches that caters towards the Ontario Latino community. Its humble structure and environment make it easier for Latinos to connect. Although there are many other catholic churches in the area, this church is particularly important due to its proximity to where the Sunkist packing house once stood. This shows that the Latino community settled close to where the job sources stood, however, they also made an effort to make this places more comfortable and resourceful for them.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Kathya Rodriguez">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Kathya Rodriguez">Our Lady of Guadalupe Catholic Church</placeName>
+            <geo>-117.646415 34.056625</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Our Lady of Guadalupe church is particularly important due to its proximity to where the Sunkist packing house once stood.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Diaz, David R. "Barrio Logic and the Consolidation of Chicanas/os in the City." Barrio Urbanism: Chicanos, Planning, and American Cities. New York: Routledge, 2005. 51-55. Print.</bibl>
+               <bibl>García, Matt. "The Ideal Country Life: The Development of Citrus Suburbs in Southern California." A World of Its Own: Race, Labor, and Citrus in the Making of Greater Los Angeles, 1900-1970. Chapel Hill, NC: U of North Carolina, 2001. N. pag. Print.</bibl>
+               <bibl>Orozco, Luz Our Lady of Guadalupe Church. 2016. Photograph.</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Orozco, Luz, 2016, Image Courtesy of Orozco,Luz</note>
                <figDesc></figDesc>
             </figure>
             
