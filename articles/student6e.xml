@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Huntington Park Farmers' Market</title>
+            <author>Gabriel Chan</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,14 +30,14 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The Huntington Park Farmers’ Market is open every Wednesday from 9:30am – 1:30pm. There is a combination of seasonal produce and Mexican food vendors. The Harbor Area Farmers’ Markets organizes the market in Huntington Park and aims to help working class communities purchase directly from small family farmers. This helps reduce costs for both the farmer and the buyer. Especially for lower income residents, the farmers’ market is a good place to buy fresh produce that would otherwise be more expensive or hard to find in a conventional supermarket. The market uses the Salt Lake Park, which also has a skate park, tennis courts, a soccer field, and other recreational facilities. This strategic location of the farmers’ market means that it can also function as a community gathering place in one of the few green spaces in Huntington Park.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">TITLE/PLACENAME</placeName>
+            <placeName type="Gabriel Chan">Huntington Park</placeName>
             <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>TEXT SUMMARY</p>
          </note>
