@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Kathryn Loutzenheiser">"Kathryn Loutzenheiser" Rosemead Trailer Park</placeName>
-            <geo>-118.07595000000003 34.061785</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.056882 34.080673</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The Rosemead Trailer Park is situated in the history of housing inequalities that Rosemead was built from.</p>
          </note>
          
