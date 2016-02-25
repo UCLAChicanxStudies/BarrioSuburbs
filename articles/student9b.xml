@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 9b</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Rosemead Trailer Park</title>
+            <author>Kathryn Loutzenheiser</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,22 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>This trailer park is one of the multiple trailer parks located in the San Gabriel Valley. The trailer park that I initially chose as a pin because it is where my family lived last year is no longer there which can be correlated with turnover rates of renters and push factors against low income families out of Rosemead. Trailer parks existing in conjunction with residential areas in Rosemead is relevant to its exclusionary history of racial covenants and stratified neighborhoods within the San Gabriel Valley. The work Barrio Urbanism by David Diaz discusses the lack of affordable housing that arose in areas such as the San Gabriel Valley with the rise of Chicana/o urbanism (Diaz 245). A change in the demographics from exclusively white to a multiethnic geographic area signals positive social change but is also intertwined with issues of poverty and overcrowding in suburbs with increasing populations.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Kathryn Loutzenheiser">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Kathryn Loutzenheiser">"Kathryn Loutzenheiser" Rosemead Trailer Park</placeName>
+            <geo>-118.07595000000003 34.061785</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Rosemead Trailer Park is situated in the history of housing inequalities that Rosemead was built from.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. Routledge, 2005.</bibl>
+              
             </listBibl>
          </div>
          
@@ -54,7 +53,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Kathryn Loutzenheiser, 20 February 2016, Courtesy of Kathryn Loutzenheiser</note>
                <figDesc></figDesc>
             </figure>
             
