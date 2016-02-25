@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Kathya Rodriguez">Sunkist Citrus Packing House</placeName>
-            <geo>-117.64258 34.056848</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-117.641284 34.057902</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The citrus industry allured new settlers due to its prosperity and also provided jobs for those who did not own land</p>
          </note>
          
