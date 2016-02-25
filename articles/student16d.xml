@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 16d</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>San Fernando Gardens Housing Project</title>
+            <author>Mario Rodriguez</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,31 +30,30 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>San Fernando Gardens Housing Project was built in 1955, as the only major public housing facility in San Fernando Valley. The housing project was intended to assist low income families whose average income is roughly $11,890(Hernandez). The 1949 Federal Housing Act created housing projects throughout the nation. These housing projects had a cultural legacy of poverty and were logical settlement locations for new immigrant arrivals from Central America. San Fernando Gardens Housing Project has 91 percent Latino population. As Susan Hardwick mentions, “...changes in immigration law in the 1960s opened the way for large numbers of new migrants from Latin America, Asia, and Africa to immigrate to the United States”(44). Suburbs of the San Fernando Valley would be ideal locations for recent arrivals. As shown through Census Data, 21 percent or more residents in the area are foreign born. These statistics highlight a community in transformation to a Latino immigrant gateway.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Mario Rodriguez">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Mario Rodriguez">San Fernando Gardens Housing Project</placeName>
+            <geo>-118.41724753068848 34.26937719570682</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>San Fernando Garden Housing Project represents a legacy of Chican@ settlement, that is transforming into a new suburban immigrant gateway.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Singer, Audrey. Twenty-First Century Gateways: Immigrant Incorporation in Suburban America. Brookings Institute, 2008. Print.</bibl>
+               <bibl>Hernandez, Efrain,Jr. "Private Struggles in Public Housing; Services: Residents of San Fernando Gardens Live in a Twilight Zone between Welfare and Independence." Los Angeles Times: 1. Sep 15 1997. ProQuest. Web. 24 Feb. 2016 .</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="https://en.wikipedia.org/wiki/Pacoima,_Los_Angeles#/media/File:San_Fernando_Gardens_Mural.JPG"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Image A NP, Courtesy of Creative Commons, https://en.wikipedia.org/wiki/Pacoima,_Los_Angeles#/media/File:San_Fernando_Gardens_Mural.JPG Courtesy of LA Public Library,http://jpg1.lapl.org/pics24/00031519.jpg</note>
                <figDesc></figDesc>
             </figure>
             

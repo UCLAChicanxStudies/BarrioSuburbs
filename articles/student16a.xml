@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>San Fernando Rey de España Misson represents the origin of the Spanish urban form in San Fernando. Mexican Independence in 1821 would disrupt the administration and communication to the territories in Alta California. The secularization of the missions would allow Mexican elites to purchase large tracts of land for agricultural production and cattle grazing. These characteristics would provide the cultural foundation for American suburban development which occurred following the American-Mexican War of 1848. Newly ceded territory of California was a big attraction for anglo expansion. In 1847, Charles Maclay and George Porter formed a partnership and purchased 56,000 acres of North San Fernando Valley (Wanamaker, 20). This land acquisition designates a formal transition to the suburbaniziation project of San Fernando Valley. San Fernando’s development in the 20th century was characterized as an agroburb an economy based on agriculture products such as citrus and olives that required Mexican migrant labor.</p>
+            <p>San Fernando Rey de España Misson represents the origin of the Spanish urban form in San Fernando. Mexican Independence in 1821 disrupted administration and communication to the territories in Alta California. The secularization of the missions allowed Mexican elites to purchase large tracts of land for agricultural production and cattle grazing. These characteristics provided the foundation for American suburban development which occurred following the American-Mexican War of 1848. The ceded territory of California was a big attraction for anglo expansion. In 1847, Charles Maclay and George Porter formed a partnership and purchased 56,000 acres of former mission land(Wanamaker, 20). This land acquisition designates a formal transition to the suburbanization project of San Fernando Valley. San Fernando’s development in the 20th century was characterized as an “agriburb” an economy based on agriculture products such as citrus and olives that required Mexican migrant labor.</p>
          </div>
       </body>
       
@@ -39,7 +39,8 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Mario Rodriguez">San Fernando Rey de España Mission</placeName>
             <geo>-118.46124680000003 34.27324216359048</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Legacy of San Fernando is founded on the creation of the Mission. The social, political, and economic transformations that occurred because of this early settlement.</p>
+            <p>San Fernando’s suburban development began due to the secularization of the Spanish missions and the purchase of mission land to American settlers.
+</p>
          </note>
          
          <div type="bibliography">

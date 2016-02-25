@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 16e</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Shadow Hills</title>
+            <author>Mario Rodriguez</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,21 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The Shadow Hills development began in 1907 and was marketed as “Little Farms Near the City”(Barraclough, 176).  As Barraclough writes, “Non whites were deliberately excluded from the ideals of suburban farming through the Alien Land Laws, which forbade land ownership of by ‘aliens ineligible for citizenship’”(175). Non whites could not acquire property and were relegated to other suburban spaces such as colonias of San Fernando and Sun Valley. Throughout the 1960s San Fernando Valley rural areas began to subdivide for new commercial development. However, Shadow Hills “activists” would zone the subdivision as a “horse raising zone” to protect the community from future zoning laws. As Barraclough explains, “Shadow Hills and adjacent white communities could preserve their single-family, low-density landscape and rural lifestyle”(176). This community highlights the continuation of racial segregation and protection of rural aesthetic that is inaccessible to non whites.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Mario Rodriguez">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Mario Rodriguez">Shadow Hills</placeName>
+            <geo>-118.35595633337402 34.25747004603843</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Shadow Hills suburban development demonstrates the historical continuity of racial covenants and homogenous social and economic enslaves.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Barraclough. “South Central Farmers and Shadow Hills Homeowners: Land Use Policy and Relational Racialization in Los Angeles”. The Professional Geographer 16.2 (2009): 164-186. Print.</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +52,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Mario Rodriguez, 20 February 2016</note>
                <figDesc></figDesc>
             </figure>
             
