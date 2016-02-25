@@ -36,8 +36,8 @@
       
       <back>
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Kathryn Loutzenheiser">TITLE/PLACENAME</placeName>
-            <geo>-118.0712034 34.0841647</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="Kathryn Loutzenheiser">Rosemead High School</placeName>
+            <geo>-118.071563 34.084938</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Rosemead High School is a site for the growth of the youth of Rosemead but is not wholly separated from the histories of racial inequalities of the area.</p>
          </note>
          
