@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 5e</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Maywood Towne Center</title>
+            <author>Enrique Carranza</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,15 +30,15 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The Maywood Towne Center is synonymous to the types of centrally located plazas found in California’s early Colonias. Like the Colonias, many of Maywood’s most prominent buildings and businesses are located in the center of town. This Colonia type of influence allows the expansion of the town outward and places an emphasize on businesses in the center. This makes them more assessable to the town’s population. Maywood is already one of the smaller suburbs in Los Angeles and having a centralized town center makes trips to the market, library or church conveniently close. With everything within walking distance for Maywood residents, there is not a location in town that is more than a ten-to-fifteen-minute walk. This is advantageous when wanting to avoid bad Los Angeles traffic and also a great way to get some daily exercise.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Enrique Carranza">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="Enrique Carranza">Maywood Towne Center</placeName>
+            <geo>-118.18662106990814 33.9877420102494062</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>TEXT SUMMARY</p>
          </note>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Enrique Carranza, 12 Feburary 2016. Courtesy of Enrique Carranza</note>
                <figDesc></figDesc>
             </figure>
             

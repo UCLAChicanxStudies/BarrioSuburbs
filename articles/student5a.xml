@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Maywood Park</title>
+            <title>Maywood City Hall</title>
             <author>Enrique Carranza</author>
          </titleStmt>
          <publicationStmt>
@@ -30,23 +30,23 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Maywood Park is a historical site in the city. It is a place for the children to go and exercise in a safe environment. The park began as a meadow in the 1930’s but was later converted into a baseball field due to the high demand for recreational activates by Maywood residents. By the time the 1950’s came along, this park became home of the Golden State Baseball Association. Eighty years later, this park still stand through community efforts, allowing its residents to have a place where they can have a large open space. The location of Maywood Park offers a wide variety of exercise opportunities such as a Southeast Rio Vista YMCA. The YMCA offers many youth programs and is also very affordable, providing flexible payment plans. Maywood Park and the YMCA are important community resources that help keep kids off the streets and live better and active lives.</p>
+            <p>Since the city of Maywood has a Hispanic population that exceeds 95% of its 27000+ residents, it makes sense that their city officials are comprised of Hispanic or people of Hispanic descent. These councilmembers are elected by the residents of Maywood and for the residents of Maywood. They are seen throughout the community and can be reached by email and in their respected visiting times. These are the leaders of the community of Maywood who want to put the people first and improve the community as a whole. It is envisioned by the people of Maywood, the mayor and the councilmembers that by the 2018, Maywood will become a “model community where families, young professionals and businesses thrive.” Through active political participation, and bimonthly agenda meetings, this can be accomplished by Maywood residents. It is their voice that is heard and the people’s voice is often the loudest. </p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Enrique Carranza">Enrique Carranza, Maywood Park</placeName>
-            <geo>-118.17727088928223 33.98774423422178</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Maywood Park, Home of the Golden State Baseball Association. Located by Southeast Rio Vista YMCA. Resources providing community exercise.</p>
+            <placeName type="Enrique Carranza">Maywood City Hall</placeName>
+            <geo>-118.18912357091904 33.98778426572373</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Maywood, home to a large Hispanic population. Striving to be a “model community where families, young professionals and businesses thrive.”</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>"City of Maywood." <i>Parks &amp; Recreation Description</i>. N.p., n.d. Web. 10 Feb. 2016.</bibl>
-               <bibl>"Facilities." <i>Facilities</i>. Web. 7 Feb. 2016.</bibl>
-               <bibl>"Get Latitude and Longitude Coordinates." Get Latitude and Longitude Coordinates. Web. 8 Feb. 2016</bibl>
+               <bibl>"City of Maywood." Maywood City Council. N.p., n.d. Web. 18 Feb. 2016.</bibl>
+               <bibl>C., I., T., and Y. STRATEGIC PLANNING SESSION (n.d.): n. pag. www.cityofmaywood.com. Web. 19 Feb. 2016.</bibl>
+               <bibl>"Get Latitude and Longitude Coordinates." Get Latitude and Longitude Coordinates. Web. 18 Feb. 2016</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">Google Maps, 10 Feburary 2016, Courtesy of https://www.google.com/maps/@33.9873101,-118.1776906,3a,75y,357.39h,96.6t/data=!3m6!1e1!3m4!1s930wi92_ouDMfAHmBX4C5A!2e0!7i13312!8i6656!6m1!1e1</note>
+               <note type="attribution">Enrique Carranza, 12 Feburary 2016. Courtesy of Enrique Carranza</note>
                <figDesc></figDesc>
             </figure>
             

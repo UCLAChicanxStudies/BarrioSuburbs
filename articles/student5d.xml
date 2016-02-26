@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 5d</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>St. Rose of Lima Catholic Church</title>
+            <author>Enrique Carranza</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,22 +30,22 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>With a large Hispanic population still in tune with their cultural roots, many Maywood residents are inherently Catholic. St. Rose of Lima Catholic Church offers services and mass to anyone willing to experience the Word of God. Saint Rose’s purpose is to extend the knowledge of Christ in the community through all facets of Catholic values. It was founded in the year 1922, though it began as a small parish, it was soon expanded and improved through the generous donations it has received over the years. St. Rose of Lima offers sermons in both English and Spanish, taking into the account that many Maywood residents like to hear their sermons in their native language. This parish offers many programs for youth development and youth groups and of course, all are welcome. St. Rose is a true testament of a divinity within the community.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Enrique Carranza">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Enrique Carranza">St. Rose of Lima Catholic Church</placeName>
+            <geo>-118.18615436553955 33.987032559937354</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>St. Rose of Lima Catholic Church, offering the Word of the Lord. Mass welcomes all and is is offered in English and in Spanish periodically.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
+               <bibl>"Get Latitude and Longitude Coordinates." Get Latitude and Longitude Coordinates. Web. 14 Feb. 2016</bibl>
+               <bibl>"Saint Rose of Lima Church." Saint Rose of Lima Church. N.p., n.d. Web. 19 Feb. 2016.</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Enrique Carranza, 12 Feburary 2016. Courtesy of Enrique Carranza</note>
                <figDesc></figDesc>
             </figure>
             
