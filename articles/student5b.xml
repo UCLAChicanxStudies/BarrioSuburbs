@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Enrique Carranza">TITLE/PLACENAME</placeName>
+            <placeName type="Enrique Carranza">Maywood Park</placeName>
             <geo>-118.17727088928223 33.98774423422178</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Maywood Park, Home of the Golden State Baseball Association. Located by Southeast Rio Vista YMCA. Resources providing community exercise.</p>
          </note>
