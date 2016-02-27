@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>6th Street Bridge</title>
+            <author>Bernice Andrade</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>The Sixth Street Viaduct, better known as the 6th Street Bridge, was developed in 1932. It is approximately 3, 500 feet in length and spans the Los Angeles River, the Santa Ana freeway, various railroad tracks, as well as local streets. Due to its enormous size, the bridge has been noted as an outstanding engineering accomplishment. The 6th Street Bridge has been widely popularized due to its appearances in films such as “Terminator 2: Judgment Day” as well as “Grease.” However, it is also a Historic-Cultural Monument. This bridge is of great importance to Boyle Heights because it is the mechanism by which people have been able to reach downtown Los Angeles. Unfortunately, the bridge is currently in the process of being replaced as a result of seismic vulnerability. A new bridge is expected to be completed by 2019 and will cost approximately $449 million. </p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Bernice Andrade">6th Street Bridge</placeName>
+            <geo>-118.24208279999999 34.0403026</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The 6th street bridge is a significant landmark in Boyle Heights because it provided the means for people to reach downtown LA.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>“History of the Sixth Street Viaduct.” Sixth Street Viaduct Replacement Project Bureau of 
+Engineering. n.p., n.d. Web. 20 Feb. 2016. http://www.sixthstreetviaduct.org/history</bibl>
+               <bibl>Lloyd, Jonathan. “Landmark Sixth Street Bridge at End of Historic Road.” NBCUniversal 
+Media, 27 Jan. 2016. Web. 20 Feb. 2016. http://www.nbclosangeles.com/news/local/Sixth-Street-Viaduct-Bridge-366688661.html</bibl>
+               <bibl>“Historic 6th Street Bridge in Downtown LA Closed Ahead of Demolition.” CBS Los Angeles. 
+CBS Local Media, 27 Jan. 2016. Web. 20 Feb. 2016. http://losangeles.cbslocal.com/2016/01/27/prep-work-begins-for-demolition-of-historic-6th-street-bridge-in-downtown-la/</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="http://jpg1.lapl.org/pics19/00009370.jpg"/>
+               <head></head>
+               <note type="attribution">William Reagh, 1950, Courtesy of Los Angeles Public Library, http://jpg1.lapl.org/pics19/00009370.jpg </note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
