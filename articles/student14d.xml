@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">TITLE/PLACENAME</placeName>
+            <placeName type="arts">Highland Park Florist</placeName>
             <geo>-118.19208 34.11017</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Highland Park Florist depicts barrio “state of mind” and power of place, through murals that hold great significance in Latino communities.</p>
          </note>
