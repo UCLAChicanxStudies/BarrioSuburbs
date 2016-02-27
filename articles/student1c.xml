@@ -37,8 +37,8 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Bernice Andrade">1889 Boyle Hotel-Cummings Block </placeName>
-            <geo>-118.22041919999998 34.0474645</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <placeName type="Bernice Andrade">1889 Boyle Hotel-Cummings Block</placeName>
+            <geo>-118.220455 34.047837</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>1889 Boyle Hotel-Cummings or “Mariachi Hotel,” is a significant architectural and historical monument that preserves Boyle Height’s history. </p>
          </note>
          
