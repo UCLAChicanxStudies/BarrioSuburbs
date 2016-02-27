@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Bernice Andrade">6th Street Bridge</placeName>
-            <geo>-118.24208279999999 34.0403026</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.228092 34.038839</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The 6th street bridge is a significant landmark in Boyle Heights because it provided the means for people to reach downtown LA.</p>
          </note>
          
