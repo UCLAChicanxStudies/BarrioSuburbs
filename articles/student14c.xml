@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="arts">TITLE/PLACENAME</placeName>
+            <placeName type="Monica Rodas">HIGHLAND PARK SENIOR CENTER</placeName>
             <geo>-118.1850 34.11425</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The Highland Park Senior Center offers Highland Park’s Neighborhood Council a space to engage residents in community issues and development.</p>
          </note>
