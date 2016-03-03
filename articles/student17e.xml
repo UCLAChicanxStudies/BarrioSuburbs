@@ -39,12 +39,12 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Michelle Rolon">The Bilingual Foundation of the Arts</placeName>
             <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <p>The Bilingual Foundation of Arts was established in 1973 with the mission to create a recognized theater space for Latin Americans.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>The Bilingual Foundation of Arts was established in 1973 with the mission to create a recognized theater space for Latin Americans. Bilingual Foundation of the Arts. N.p., n.d. Web. 19 Feb. 2016.</bibl>
+               <bibl>Bilingual Foundation of the Arts. N.p., n.d. Web. 19 Feb. 2016.</bibl>
                <bibl>Woo, Elaine. "Carmen Zapata Dies at 86; Actress Launched Bilingual Theater Company." Los Angeles Times. Los Angeles Times, 07 Jan. 2014. Web. 20 Feb. 2016.</bibl>
                <bibl>Garcia, Jacqueline. "BFA Bids Farewell to Lincoln Heights." Eastern Group Publications. EGPNews, 12 July 2014. Web. 21 Feb. 2016.</bibl>
             </listBibl>
