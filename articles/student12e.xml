@@ -38,19 +38,15 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Jorge E. Quiroz Moreno">Santa Ana College</placeName>
-            <geo>-117.8865629, 33.7593035</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-117.8865629 33.7593035</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Santa Ana College provides access to higher education for communities of colors in Santa Ana by providing educational programs for adults.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>
-"History of Santa Ana College." History of Santa Ana College. Web. 22 Feb. 2016. http://www.sac.edu/AboutSAC/Pages/history.aspx.</bibl>
-               <bibl>
-"School of Continuing Education." School of Continuing Education. Web. 22 Feb. 2016. http://www.sac.edu/ContinuingEducation/Pages/default.aspx.
-</bibl>
-               <bibl>
-California Community Colleges Chancellor's Office. Web. 22 Feb. 2016. http://californiacommunitycolleges.cccco.edu/collegeDetails.aspx?collegeID=871&txt=Santa Ana College.</bibl>
+               <bibl>"History of Santa Ana College." History of Santa Ana College. Web. 22 Feb. 2016. http://www.sac.edu/AboutSAC/Pages/history.aspx.</bibl>
+               <bibl>"School of Continuing Education." School of Continuing Education. Web. 22 Feb. 2016. http://www.sac.edu/ContinuingEducation/Pages/default.aspx.</bibl>
+               <bibl>California Community Colleges Chancellor's Office. Web. 22 Feb. 2016. http://californiacommunitycolleges.cccco.edu/collegeDetails.aspx?collegeID=871&txt=Santa Ana College.</bibl>
             </listBibl>
          </div>
          
