@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Santa Ana, California is a working class suburb situated within middle and upper class suburbs in Orange County. The city is mainly comprised of people from a Latino background, the majority of Mexican decent. Its residents work blue-collar jobs and reside within the high density suburb. Santa Ana, like many other places in the citrus belt, experienced segregation in the first part of the 20th century, particularity residents from a Mexican background. Presently, Santa Ana’s Downtown and its border neighborhoods have experienced increased investment, resulting in new homes being built and the diversifying of the local population. In the last twenty years, “Santa Ana became one of the ten cities with the highest percentage of Latinos in the Unites States” (Guzman). Situated between white suburbia in Orange County, Chicano urbanism created a new major barrio, with over 350,000 Latinos.</p>
+            <p>Santa Ana, California is a working class suburb situated within middle and upper class suburbs in Orange County.  The city is mainly comprised of people from a Latino background, the majority from Mexican decent.  It’s residents work blue-collar jobs that reside within the high dense suburb. Santa Ana, like many other places in the citrus belt, experienced some sort of segregation in the first part of the 20th century, particularity residents from a Mexican background. Presently, Santa Ana’s Downtown and its border neighborhoods have experience increase investment, resulting in new homes being built and diversifying the local population. In the last twenty years, “Santa Ana became one of the ten cities with the highest percentage of Latinos in the Unites States” (Guzman). Situated between white suburbia in Orange County, Chicano urbanism created a new major barrio, with over 350,000 Latinos.</p>
 
          </div>
       </body>
@@ -40,13 +40,14 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Kevin Martinez">La Cuatro-East End</placeName>
             <geo>-117.86760 33.74800</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>This street is known as “La Cuatro,” however the city has renamed the area East End as the demographic has changed in the recent years.</p>
+            <p>This street is known as “La Cuatro”, however the city has renamed the area East End as the demographic has changed in the recent years.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
                <bibl>Guzmán, Betsy. The Hispanic Population, 2000. Washington, D.C.: U.S. Dept. of Commerce, Economics and Statistics Administration, U.S. Census Bureau, 2001. Print.</bibl>
-             
+               <bibl>Citation 2...</bibl>
+               <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
