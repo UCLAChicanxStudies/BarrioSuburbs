@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Ernesto Rocha">'Welcome to Long Beach' mural</placeName>
-            <geo>-118.19699149999997 33.7695098</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.19699149999997, 33.7695098</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Welcome to Long Beach, historic site of the first Miss Universe pageant. A wholesome beach town emblematic of suburban lifestyle, culture and safety.</p>
          </note>
          
