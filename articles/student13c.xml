@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Ernesto Rocha">From Beach Livin' to industrial suburb. (Long Beach Waterfront)</placeName>
-            <geo>-118.21645799999999 33.7541850019184</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.1938576 33.76347308761815</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>From beach livin' to industrial suburb; small town to port town. Long Beach witnessed extraordinary growth and industrial transformation in the early 20th Century.</p>
          </note>
          
