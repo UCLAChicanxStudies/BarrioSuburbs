@@ -30,14 +30,14 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>The City of Long Beach is located at Southern end of the Los Angeles River and is home to one of the largest port complexes in the country. Since the 1980’s, economic and political refugees have immigrated and out-migrated to these suburbs from traditional gateways cities, like Los Angeles, in search of work as they followed these large industries (Singer, 6). The turn over of ethnic succession from predominantly white, middle class to a Black and Latino workforce have transformed the ethnic make up of the city making it one of the most diverse in the country. These same worksites serve not just as places for employment but also as sites of struggle and contestation from workers and communities that experience poverty and economic stagnation. Workers in industries like port trucking, warehousing and home healthcare are among the most susceptible to low wages, wage theft and other work related abuses (Long Beach Rising report, 3).</p>
+            <p>The City of Long Beach is located at Southern end of the Los Angeles River and is home to one of the largest port complexes in the country. Since the 1980s, economic and political refugees have immigrated and out-migrated to these suburbs from traditional gateways cities, like Los Angeles, in search of work as they followed these large industries (Singer, 6). The turn over of ethnic succession from predominantly white, middle class to a Black and Latino workforce have transformed the ethnic make up of the city making it one of the most diverse in the country. These same worksites serve not just as places for employment but also as sites of struggle and contestation from workers and communities that experience poverty and economic stagnation. Workers in industries like port trucking, warehousing and home healthcare are among the most susceptible to low wages, wage theft and other work related abuses (Long Beach Rising report, 3).</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Ernesto Rocha">Ernesto Rocha Port of Long Beach/Long Beach</placeName>
+            <placeName type="Ernesto Rocha">Port of Long Beach/Long Beach</placeName>
             <geo>-118.19162600209961 33.73478382167014</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Long Beach stands as a site of vast economic development vis-à-vis worker marginalization and environmental degradation.</p>
          </note>
