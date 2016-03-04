@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Gonzalez">BPUSD Adult and Community Education Campus </placeName>
+            <placeName type="Gonzalez">BPUSD Adult and Community Education Campus</placeName>
             <geo>-117.959372 34.096690</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The Latinos in the community of Baldwin Park have resources to better their education.</p>
          </note>
