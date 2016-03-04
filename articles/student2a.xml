@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Hilda Arteaga">Mariachi Plaza</placeName>
-            <geo>'-118.219648 34.047215</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.219648 34.047215</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Mariachi Plaza is a representation of the community’s identity and culture as it encompasses the neighborhoods Latino population.</p>
          </note>
          
@@ -52,7 +52,7 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url=""/>
+               <graphic url="http://s3-media1.fl.yelpcdn.com/bphoto/gslFkzIQyMQXY-A8hH21yw/o.jpg"/>
                <head></head>
                <note type="attribution"></note>
                <figDesc></figDesc>
