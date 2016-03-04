@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p> The establishment of a community park was reflective of a citywide effort during the 1880s to establish "pleasure grounds" as part of a national City Beautiful movement that encouraged healthful and attractive oases in urban environment during the 1850s by the Anglo community present at the time. The park was named after John Hollenbeck, whom was a heavy investor of Los Angeles real estate and banking. The facility went on to establish a dam and reservoir to serve as a lake for the new park and, later, a series of walkways, benches, trees, bushes and even a boathouse were added. The park stands as a reminder of the once heavily populated Anglo community present in Boyle Heights during the 1850s. Today, the park is unique to Boyle Heights as it is reflective of the transformation from a middle and upper class residential suburb to a working and middle class enclave.</p>
+            <p> The establishment of a community park was reflective of a citywide effort during the 1880s to establish "pleasure grounds" as part of a national "city beautiful" movement that encouraged healthful and attractive oases in urban environment during the 1850s by the Anglo community present at the time. The park was named after John Hollenbeck, whom was a heavy investor of Los Angeles real estate and banking. The facility went on to establish a dam and reservoir to serve as a lake for the new park and later a series of walkways, benches, trees, bushes and even a boathouse were added. The park stands as a reminder of the once heavily populated Anglo community present in Boyle Heights during the 1850s. Today, the park is unique to Boyle Heights as it is reflective of the transformation from a middle and upper class residential suburb to a working and middle class enclave.</p>
          </div>
       </body>
       
@@ -45,8 +45,8 @@
          <div type="bibliography">
             <listBibl>
                <bibl></bibl>
-               <bibl></bibl>
-               <bibl></bibl>
+               <bibl>Citation 2...</bibl>
+               <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
