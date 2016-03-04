@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>"Welcome to Long Beach" Mural</title>
-            <author>Rocha, Ernesto</author>
+            <title>'Welcome to Long Beach' Mural</title>
+            <author>Ernesto Rocha</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -37,14 +37,14 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Ernesto Rocha">"Welcome to Long Beach" mural</placeName>
+            <placeName type="Ernesto Rocha">'Welcome to Long Beach' mural</placeName>
             <geo>-118.19699149999997 33.7695098</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Welcome to Long Beach, historic site of the first Miss Universe pageant. A wholesome beach town emblematic of suburban lifestyle, culture and safety.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Long Beach Area Convention & Visitors Bureau. Long Beach California, The Urban Waterfront Playground. n.d. 15 February 2016, http://www.visitlongbeach.com.</bibl>
+               <bibl>Long Beach Area Convention and Visitors Bureau. Long Beach California, The Urban Waterfront Playground. n.d. 15 February 2016, http://www.visitlongbeach.com.</bibl>
                <bibl>Nicolaides, Becky M. and Andrew Wiese. "The Suburb Reader." New York: Routledge, n.d. 1-223.</bibl>
                <bibl>The Ottowa Citizen. "Blonde From Finland Named "Miss Universe"." The Ottowa Citizen 30 June 1952.</bibl>
             </listBibl>
