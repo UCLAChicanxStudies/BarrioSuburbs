@@ -45,8 +45,8 @@
          <div type="bibliography">
             <listBibl>
                <bibl></bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl></bibl>
+               <bibl></bibl>
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="http://s3-media1.fl.yelpcdn.com/bphoto/6W_gE5aCPPEnyXnrw3zK6w/o.jpg"/>
                <head></head>
-               <note type="attribution">http://s3-media1.fl.yelpcdn.com/bphoto/6W_gE5aCPPEnyXnrw3zK6w/o.jpg</note>
+               <note type="attribution"></note>
                <figDesc></figDesc>
             </figure>
             
