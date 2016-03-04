@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Exide Technologies’ battery recycling plant in Vernon began shutting down in March 2015. A government investigation of the nearly twenty years of illegal lead and arsenic dumping at Exide led to their eventual mandatory shut down. The facility had been operating since 1922 and Exide received multiple environmental violations from government officials since 2000. Tests show that toxins are abundant in nearby soil and ground water, and these pollutants have endangered the health of up to 110,000 people. In the mid-1900s, the area was industrial and had a low resident population, so fewer people were at risk. However, the in migration of Latinos beginning in the 1970s caused a demographic shift. The pollutants and dumping now were affecting many more people in the same area. This case is an example of the Vernon’s industrial past conflicting with the present-day high population density of nearby cities, like Huntington Park.</p>
+            <p>The land that Esperanza High School sits on was formerly home to a recycling plant, which received large shipments of concrete and other debris after the collapse of the Santa Monica Freeway during the 1994 Northridge earthquake. Locals colloquially referred to the enormous pile of rubble as la montaña (“the mountain”) and many nearby residents developed health problems due to the noxious dust from the heap. With the help of an environmental justice organization, neighborhood activist Linda Esperanza Marquez, rallied the community to get la montaña cleared away. They eventually convinced the city to deem la montaña a public nuisance and have it removed. Construction of Esperanza High School began in 2004 as part of LAUSD’s New School Construction and Modernization Program. The high school opened in 2013 and stands as a hallmark of the power of community organizing, advocacy, and persistence to overcome environmental injustice.</p>
          </div>
       </body>
       
@@ -39,22 +39,22 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Gabriel Chan">Linda Esperanza Marquez High School</placeName>
             <geo>-118.2339073 33.9823798</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>After decades of polluting the surrounding area, Exide Technologies’ battery recycling plant in Vernon is shutting down. The cleanup is ongoing.</p>
+            <p>Esperanza HS sits on the former home of la montaña, a large debris pile that plagued the community with health problems from 1994-2004.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Mason, Melanie. "L.A.-area and State Officials Call for Quicker Cleanup of Exide Plant Contamination." Los Angeles Times. Los Angeles Times, 26 Jan. 2016. Web. 24 Feb. 2016.</bibl>
-               <bibl>Barboza, Tony. "Gov. Jerry Brown Wants State to Put $176 Million toward Exide Cleanup." Los Angeles Times. Los Angeles Times, 17 Feb. 2016. Web. 24 Feb. 2016.</bibl>
-               <bibl>Barboza, Tony, and Ruben Vives. "Regulators Detail Exide Battery Plant Closure after Decades of Pollution." Los Angeles Times. Los Angeles Times, 12 Mar. 2016. Web. 24 Feb. 2016.</bibl>
+               <bibl>Rodino, Robert J. “Urban Revitalization in an Ethnic Enclave: Huntington Park CA 1965-1998.” Critical Planning (1999): 92-103. Web.</bibl>
+               <bibl>Communities for a Better Environment. n.p., 2014. Web. 27 Jan. 2016. <http://www.cbecal.org/about/victories/>.</bibl>
+
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://s-ehrlich.com/images/work/p133/02.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Ehrlich Architects, n.d., Courtesy of Ehrlich Architects. http://s-ehrlich.com/images/work/p133/02.jpg</note>
                <figDesc></figDesc>
             </figure>
             
