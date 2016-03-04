@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Ernesto Rocha">Ernesto Rocha Port of Long Beach/Long Beach</placeName>
-            <geo>-118.21645799999999 33.7541850019184</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.19162600209961 33.73478382167014</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Long Beach stands as a site of vast economic development vis-à-vis worker marginalization and environmental degradation.</p>
          </note>
          
