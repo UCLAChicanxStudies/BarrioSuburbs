@@ -30,7 +30,7 @@
         
         <body>
             <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-                <p>Lynwood is located 10 miles South East of Downtown Los Angeles. The city once described as “Lily White” Lynwood now has a boosting population of 82 % Latina/o and 13% Black according to “Mapping LA. The drastic change happened because Watts is directly adjunct to the city experienced huge riots in 1965 and Cal Trans fought to split the city in half with the 8 lane 105 freeway. Those experiences led to “white flight”, which in turn created housing opportunity for minorities previously restricted to red lined zones in Los Angeles. It is currently going through a cultural revival due to the opening of Plaza Mexico, which bringing opportunities for Latina/o cultural exchange and celebration. A city that once prohibited people of color walking on their streets now has “Angel de la Independencia” just like Monten Alban in Mexico City sitting at its center.</p>
+                <p>Lynwood is located 10 miles South East of Downtown Los Angeles. The city once described as “Lily White” Lynwood now has a boosting population of 82% Latina/o and 13% Black according to “Mapping LA." The drastic change happened because Watts, directly adjunct to the city, experienced huge riots in 1965 and Cal Trans fought to split the city in half with the 8 lane 105 freeway. Those experiences led to “white flight,” which in turn created housing opportunity for minorities previously restricted to red lined zones in Los Angeles. It is currently going through a cultural revival due to the opening of Plaza Mexico, which has brought opportunities for Latina/o cultural exchange and celebration. A city that once prohibited people of color from walking on their streets now has an “Angel de la Independencia” just like Monten Alban in Mexico City sitting at its center.</p>
             </div>
         </body>
         
@@ -39,14 +39,14 @@
             <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
                 <placeName type="Alberto Loaiza">Alberto Loaiza Lynwood, CA</placeName>
                 <geo>-118.20361760000003 33.925215751561346</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-                <p>Lynwood is a small working class suburb south east of Downtown LA with a majority Latino/a population. In recent years it has become a center of Mexican and Latina/o celebration.</p>
+                <p>Lynwood is a small working class suburb south east of Downtown LA with a majority Latino/a population. In recent years, it has become a center of Mexican and Latina/o celebration.</p>
             </note>
             
             <div type="bibliography">
                 <listBibl>
                     <bibl>20, August. "Empty Houses, Dreams : Lynwood: Downhill on the Freeway." Los Angeles Times. Los Angeles Times, 20 Aug. 1989. Web. 27 Jan. 2016.</bibl>
                     <bibl>"Lynwood." Mapping L.A. LA Times, 2000. Web. 27 Jan. 2016.</bibl>
-                    <bibl>Irazábal, Clara. Transbordering Latin Americas: Liminal Places, Cultures, and Powers (t)here. N.p.: Routledge, 2013, n.d. Print</bibl>
+                    <bibl>Irazábal, Clara. Transbordering Latin Americas: Liminal Places, Cultures, and Powers (t)here. N.p.: Routledge, 2013, n.d. Print</bibl>
                 </listBibl>
             </div>
             
