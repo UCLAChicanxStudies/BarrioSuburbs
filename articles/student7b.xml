@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>BPUSD Adult and Community Education Campus</title>
-            <author>Patricia Gonzalez</author>
+            <author>Kany Martinez</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Gonzalez">BPUSD Adult and Community Education Campus</placeName>
+            <placeName type="Gonzalez">Kany Martinez, BPUSD Adult and Community Education Campus</placeName>
             <geo>-117.959372 34.096690</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The Latinos in the community of Baldwin Park have resources to better their education.</p>
          </note>
@@ -52,7 +52,7 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://static.panoramio.com/photos/large/93638276.jpg"/>
                <head></head>
                <note type="attribution">Kany Martinez, 24 July 2013, Courtesy of Kany Martinez, http://www.panoramio.com/photo/93638276</note>
                <figDesc></figDesc>
