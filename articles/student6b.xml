@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>The land that Esperanza High School sits on was formerly home to a recycling plant, which received large shipments of concrete and other debris after the collapse of the Santa Monica Freeway during the 1994 Northridge earthquake. Locals colloquially referred to the enormous pile of rubble as la montaña ('the mountain') and many nearby residents developed health problems due to the noxious dust from the heap. With the help of an environmental justice organization, neighborhood activist Linda Esperanza Marquez, rallied the community to get la montana cleared away. They eventually convinced the city to deem la montaña a public nuisance and have it removed. Construction of Esperanza High School began in 2004 as part of LAUSD’s New School Construction and Modernization Program. The high school opened in 2013 and stands as a hallmark of the power of community organizing, advocacy, and persistence to overcome environmental injustice.</p>
+            <p>The land that Esperanza High School sits on was formerly home to a recycling plant, which received large shipments of concrete and other debris after the collapse of the Santa Monica Freeway during the 1994 Northridge earthquake. Locals colloquially referred to the enormous pile of rubble as la montaña (“the mountain”) and many nearby residents developed health problems due to the noxious dust from the heap. With the help of an environmental justice organization, neighborhood activist Linda Esperanza Marquez, rallied the community to get la montaña cleared away. They eventually convinced the city to deem la montaña a public nuisance and have it removed. Construction of Esperanza High School began in 2004 as part of LAUSD’s New School Construction and Modernization Program. The high school opened in 2013 and stands as a hallmark of the power of community organizing, advocacy, and persistence to overcome environmental injustice.</p>
          </div>
       </body>
       
@@ -39,7 +39,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Gabriel Chan">Linda Esperanza Marquez High School</placeName>
             <geo>-118.2339073 33.9823798</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Esperanza HS sits on the former home of la montana, a large debris pile that plagued the community with health problems from 1994-2004.</p>
+            <p>Esperanza HS sits on the former home of la montaña, a large debris pile that plagued the community with health problems from 1994-2004.</p>
          </note>
          
          <div type="bibliography">
