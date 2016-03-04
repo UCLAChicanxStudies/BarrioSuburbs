@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Bell typically gets recognized for the "Bell Scandal of 2010" in which elected city officials abused their power and misappropriated the city’s funds in order to pay themselves incredibly high salaries. The council at the time was predominantly Latino; people believed having a council of the same ethnicity would help better circumstances in the city but it is evident that they were wrong. The Bell Scandal reinforces the idea of the city being a “city of extraction” where the primary economic activity of the city is extracting what little wealth remains. The city demographics have a lot to do with allowing this abuse of power to occur; many of the citizens have little education and are not too active politically due to fear brought on by immigration status leaving corrupted city officials to take advantage of small cities like Bell.</p>
+            <p>Bell typically gets recognized for the "Bell Scandal of 2010," in which elected city officials abused their power and misappropriated the city’s funds in order to pay themselves incredibly high salaries. The council at the time was predominantly Latino. Although people believed that having a council of the same ethnicity would help better circumstances in the city, it is evident that they were wrong. The Bell Scandal reinforces the idea of the city as a “city of extraction,” where the primary economic activity of the city is extracting what little wealth remains. The city demographics have a lot to do with allowing this abuse of power to occur. Many of the citizens have little education and are not too active politically, due to fear brought on by immigration status, allowinng corrupted city officials to take advantage of small cities like Bell.</p>
          </div>
       </body>
       
@@ -39,7 +39,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Berenice Meza">City Hall</placeName>
             <geo>-118.18850674289433 33.97913212485369</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>In 2010 city officials misappropriated the city’s funds to pay themselves salaries of $100,000 when they should only be making $8,000 a year</p>
+            <p>In 2010, city officials misappropriated the city’s funds to pay themselves salaries of $100,000, when they should have only been making $8,000 a year</p>
          </note>
          
          <div type="bibliography">
