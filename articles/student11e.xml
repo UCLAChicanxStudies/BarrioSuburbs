@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 11e</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>Community Center</title>
+            <author>Berenice Meza</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,16 +30,16 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The Bell Community Center serves many purposes in the community but one of their most artistic is the mural that they helped bring to the community. The name of the mural is unknown; however, it was commissioned by a group known as “Latino Barrio Roots” who is involved with the Los Angeles Mexican Consulate. The idea of the mural was brought to the city of Bell as a way to help divert the attention of citizens who suffered from drug and alcohol problems and provide them with an alternative escape. There are many aspects of the portrait whose meaning is unclear but the overall message and reason behind the mural is to empower the Latino/a community. Bell was strategically selected because of its high Latino/a population and community pride in being of Latin descent.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Berenice Meza">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Berenice Meza">Community Center</placeName>
+            <geo>-118.18856843370168 33.98000623024312</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Bell Community center helped commission a mural in the alley behind the building to showcase Hispanic pride and culture.</p>
          </note>
          
          <div type="bibliography">
