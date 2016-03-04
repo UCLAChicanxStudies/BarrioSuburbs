@@ -44,9 +44,9 @@
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>"STREET ART FESTIVAL." STREET ART FESTIVAL. N.p., n.d. Web. 24 Feb. 2016.</bibl>
+               <bibl>Vallejo, Jody Agius. Barrios to Burbs: The Making of the Mexican American Middle Class. N.p.:  n.p., n.d. Print.</bibl>
+     
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Berenice Meza, 21 Feburary 2016, Image Courtesy of Berenice Meza</note>
                <figDesc></figDesc>
             </figure>
             
