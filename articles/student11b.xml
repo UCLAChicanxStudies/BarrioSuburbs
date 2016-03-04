@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 11b</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>City Hall</title>
+            <author>Berenice Meza</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,23 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>Bell typically gets recognized for the "Bell Scandal of 2010" in which elected city officials abused their power and misappropriated the city’s funds in order to pay themselves incredibly high salaries. The council at the time was predominantly Latino; people believed having a council of the same ethnicity would help better circumstances in the city but it is evident that they were wrong. The Bell Scandal reinforces the idea of the city being a “city of extraction” where the primary economic activity of the city is extracting what little wealth remains. The city demographics have a lot to do with allowing this abuse of power to occur; many of the citizens have little education and are not too active politically due to fear brought on by immigration status leaving corrupted city officials to take advantage of small cities like Bell.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Berenice Meza">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Berenice Meza">City Hall</placeName>
+            <geo>-118.18850674289433 33.97913212485369</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>In 2010 city officials misappropriated the city’s funds to pay themselves salaries of $100,000 when they should only be making $8,000 a year</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>lton, William B. "Suburbs of Extraction." The Reluctant Metropolis: The Politics of Urban   Growth in Los Angeles. Point Arena, CA: Solano, 1997. N. 67-97. Print.</bibl>
+               <bibl>Los Angeles Times Staff. "Bell: ‘Corruption On Steroids’." Latimes.com. The Los Angeles Times, 20 Mar. 2013. Web. 24 Feb. 2016.</bibl>
+               <bibl>Fulton, William B. "Bell: The Latest 'Suburb of Extraction'" Bell: The Latest 'Suburb of Extraction.'</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Berenice Meza, 21 February 2016, Image Courtesy of Berenice Meza</note>
                <figDesc></figDesc>
             </figure>
             
