@@ -39,7 +39,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Gabriel Chan">Warner Theater in Huntington Park</placeName>
-            <geo>-118.2339073 33.9823798</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.22499399999998 33.9782751</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Huntington Park’s almost completely Latino population in the present-day is due to "white flight" and ample semi-skilled job opportunities.</p>
          </note>
          
