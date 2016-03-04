@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>PUT TITLE HERE 13b</title>
-            <author>PUT YOUR NAME HERE</author>
+            <title>"Welcome to Long Beach" Mural</title>
+            <author>Rocha, Ernesto</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,23 +30,23 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>ARTICLE TEXT GOES HERE...</p>
+            <p>The City of Long Beach was first settled in 1784 as part of a massive Spanish land grant that was given to soldier Manuel Nieto. The land was passed down to prominent ranchers and developers who planned its development along the Pacific coastline (Long Beach Area Convention & Visitors Bureau, 2015). There was a huge boom in the real estate market as a result of the emergence of the Pacific Railroad and Santa Fe Railroad companies. Long Beach became incorporated as a city in 1888 (City of Long Beach, 2016). Like many other tradition, early suburbs of the 20th century, Long Beach symbolized the very best of the American Dream, mainly functioning as a site for the aspirations of the wholesome family, property ownership and healthy living (Nicolaides, 2). The open beaches served as the backdrop to many attractions, recreation, leisure and cultural celebrations. Emblematic of the times, Long Beach served as the backdrop for the first ever Miss Universe pageant in 1952 (The Ottowa Citizen, 1952). </p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Ernesto Rocha">TITLE/PLACENAME</placeName>
-            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>TEXT SUMMARY</p>
+            <placeName type="Ernesto Rocha">"Welcome to Long Beach" mural</placeName>
+            <geo>-118.19699149999997 33.7695098</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Welcome to Long Beach, historic site of the first Miss Universe pageant. A wholesome beach town emblematic of suburban lifestyle, culture and safety.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Citation 1...</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
+               <bibl>Long Beach Area Convention & Visitors Bureau. Long Beach California, The Urban Waterfront Playground. n.d. 15 February 2016, http://www.visitlongbeach.com.</bibl>
+               <bibl>Nicolaides, Becky M. and Andrew Wiese. "The Suburb Reader." New York: Routledge, n.d. 1-223.</bibl>
+               <bibl>The Ottowa Citizen. "Blonde From Finland Named "Miss Universe"." The Ottowa Citizen 30 June 1952.</bibl>
             </listBibl>
          </div>
          
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">CREATOR, DATE. IMAGE COURTESY OF . . . </note>
+               <note type="attribution">Ernesto Rocha, 22 February 2016, Courtesy of Skyscraperpage.com</note>
                <figDesc></figDesc>
             </figure>
             
