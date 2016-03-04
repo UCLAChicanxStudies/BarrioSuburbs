@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>The Madison Exercise Park (Bike Trail) is a 6 miles trail that runs through the heart of Santa Ana. The trail’s entry point begins in Downtown Santa Ana and connects with the Santa Ana River in the southwest part of the city. The City of Santa Ana is a high-density city that lacks green spaces (Guzman 2001).  Normal perception of the path may entail an ordinary trail, however the community has changed the space.  The trail serves as a gathering area where residents can escape traffic congestion and obtain a healthier life style. Throughout the day many residents utilize this trail. For children, it serves as their daily route to school; joggers use the path for running and families utilize it as a picnic area. Presently, the city has been working hard to increase park space for the Santa Ana residents. The Bike Trail provides the communities with the ability to self-represent and forms both a social and procedural change of what a space is define as. (Parker 477)</p>
+            <p>The Madison Exercise Park (Bike Trail) is a 6 mile trail that runs through the heart of Santa Ana. The trail’s entry point begins in Downtown Santa Ana and connects with the Santa Ana River in the southwest part of the city. The City of Santa Ana is a high-density city that lacks green spaces (Guzman 2001).  Normal perceptions of the path may entail an ordinary trail, however, the community has changed the space. The trail serves as a gathering area where residents can escape traffic congestion and obtain a healthier life style. Throughout the day, many residents utilize this trail. For children, it serves as their daily route to school, joggers use the path for running, and families utilize it as a picnic area. Presently, the city has been working hard to increase park space for the Santa Ana residents. The Bike Trail provides the communities with the ability to self-represent and forms both a social and procedural change of what a space is defined as. (Parker 477)</p>
          </div>
       </body>
       
@@ -39,7 +39,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Kevin Martinez">The Bike Trail</placeName>
             <geo>-117.86474 33.74250</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Santa Ana's first park with exercise equipment that will help residents reach fitness goals.The city is working hard to increase park space</p>
+            <p>Santa Ana's first park with exercise equipment that will help residents reach fitness goals.The city is working hard to increase park space.</p>
          </note>
          
          <div type="bibliography">
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">Kevin Martinez, 8 Ferbuary 2016, Courtesy of Kevin Martinez</note>
+               <note type="attribution">Kevin Martinez, 8 February 2016, Courtesy of Kevin Martinez</note>
                <figDesc></figDesc>
             </figure>
             
