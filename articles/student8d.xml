@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>The 105 freeway slices right through the middle of the city of Lynwood. Now there’s an exit right off the heart of the inner suburb into Long Beach Blvd providing fast access to several highways on a busy intersection. It wasn’t always good news for the city, back in the 1970’s property owners fought hard to keep their property values up, but it was in vain. It took Caltrans over ten years to cut the city in two. The city experienced “white flight” which only accelerated through construction. With city losing 1,100 homes in property taxes mortgages became affordable to lower income families. A facilitated an opportunity for Latina/os to leave overcrowded inner urban neighborhoods they were previously confined to. With the lifting of restrictive covenants and so many homes available people found homes in the working class suburb of Lynwood California.</p>
+            <p>The 105 freeway slices right through the middle of the city of Lynwood. Now, there is an exit right off the heart of the inner suburb into Long Beach Blvd, providing fast access to several highways on a busy intersection. It was not always good news for the city. Back in the 1970s, property owners fought hard to keep their property values up, but it was in vain. It took Caltrans over ten years to cut the city in two. The city experienced “white flight,” which was only accelerated through construction. With the city losing 1,100 homes in property taxes, mortgages became affordable to lower income families. This facilitated an opportunity for Latina/os to leave the overcrowded inner urban neighborhoods they were previously confined to. With the lifting of restrictive covenants and so many homes available, people found homes in the working class suburb of Lynwood California.</p>
          </div>
       </body>
       
@@ -39,7 +39,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Alberto Loaiza">105 Freeway</placeName>
             <geo>-118.21012258529663 33.92495165108027</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>The 105 freeway slices right through the middle of the city of Lynwood. It left the city almost bankrupt, but created an opportunity for upward mobility to Latina/os.</p>
+            <p>The 105 freeway slices right through the middle of the city of Lynwood. It left the city almost bankrupt, but created an opportunity for upward mobility for Latina/os.</p>
          </note>
          
          <div type="bibliography">
