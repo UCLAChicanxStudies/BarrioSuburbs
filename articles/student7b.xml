@@ -6,8 +6,8 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Mercado Latino Inc.</title>
-            <author>Google Images</author>
+            <title>BPUSD Adult and Community Education Campus</title>
+            <author>Patricia Gonzalez</author>
          </titleStmt>
          <publicationStmt>
             <publisher></publisher>
@@ -30,21 +30,21 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>The Mercado Latino is in an area where there are many Chicanos. And now that there is a place where the Latinos can buy their authentic food and be surrounded by people from their same ethnicity a lot more Chicanos will be moving to the area. There will be an increase of Latinos in this specific area of Baldwin Park. The Latinos will be making their community like their hometown. That way they would feel more comfortable of being in the United States, since they have made this suburb their new home.</p>
+            <p>In this photo, the Baldwin Park Unified School District Adult and Community Education Campus gives the Latino community a lot of resources. They are given courses to better their education from chicano studies to culinary school. The Latino community are also given courses on finance and just any other courses that could better their education.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Gonzalez">Google Images, Mercado Latino Inc.</placeName>
-            <geo>-117.996467 34.053466</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>The Latinos in Baldwin Park have made it their home by having Mercado Latino in their community.</p>
+            <placeName type="Gonzalez">BPUSD Adult and Community Education Campus </placeName>
+            <geo>-117.959372 34.096690</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Latinos in the community of Baldwin Park have resources to better their education.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Google Images. Mercado Latino Inc. 2016. Photograph. Baldwin Park, CA.</bibl>
+               <bibl>Martinez, Kany. BPUSD Adult and Community Education Campus. 2013. Photograph. Panoramio, Baldwin Park, CA.</bibl>
                <bibl>Citation 2...</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
@@ -54,7 +54,7 @@
             <figure xml:id="fig1">
                <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution">Google Images, 16 Feb. 2016, Courtesy of Google Images</note>
+               <note type="attribution">Kany Martinez, 24 July 2013, Courtesy of Kany Martinez, http://www.panoramio.com/photo/93638276 </note>
                <figDesc></figDesc>
             </figure>
             
