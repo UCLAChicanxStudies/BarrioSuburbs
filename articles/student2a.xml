@@ -44,8 +44,9 @@
          
          <div type="bibliography">
             <listBibl>
-               <bibl>http://s3-media1.fl.yelpcdn.com/bphoto/gslFkzIQyMQXY-A8hH21yw/o.jpg</bibl>
-             
+               <bibl></bibl>
+               <bibl>Citation 2...</bibl>
+               <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
