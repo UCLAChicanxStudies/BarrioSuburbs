@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>This picture depicts the size of the city of Bell. Although considered one of the smallest cities in California, it is also one of the most highly populated. Bell is approximately 2.55 square miles large with roughly 14,357 people per square mile and 90.7% of the total population is Latino. The city of Bell is typically left off of maps; when looking for it on google maps, you must zoom in three times before it is visible. This implies that this city is not seen with much significance. It is typically over looked and not many people have heard of it or even know it exists if they are not from the area. The fact that Bell is left off of maps and is hard to find exemplifies the idea that maps are used as tools of power to segregate and neglect people of minorities- in this case particularly Latino/as.</p>
+            <p>This picture depicts the size of the city of Bell. Although considered one of the smallest cities in California, it is also one of the most highly populated. Bell is approximately 2.55 square miles large with roughly 14,357 people per square mile and 90.7% of the total population is Latino. The city of Bell is typically left off of maps. When looking for it on Google maps, you must zoom in three times before it is visible. This implies that the city is not viewed as very significance. It is typically over looked and not many people even know it exists if they are not from the area. The fact that Bell is left off of maps and that it is hard to find exemplifies the idea that maps are used as tools of power to segregate and neglect minorities- in this case, particularlym Latino/as.</p>
          </div>
       </body>
       
@@ -39,7 +39,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Berenice Meza">Bell</placeName>
             <geo>-118.18723805803029 33.97978381242153</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>This pin visually depicts how small the city of Bell is despite the fact that it is one of the most densely populated.</p>
+            <p>This pin visually depicts how small the city of Bell is, despite the fact that it is one of the most densely populated.</p>
          </note>
          
          <div type="bibliography">
