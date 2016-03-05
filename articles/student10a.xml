@@ -40,7 +40,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Kevin Martinez">La Cuatro-East End</placeName>
             <geo>-117.86760 33.74800</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>This street is known as “La Cuatro”, however the city has renamed the area East End as the demographic has changed in the recent years.</p>
+            <p>This street is known as “La Cuatro,” however the city has renamed the area East End as the demographic has changed in the recent years.</p>
          </note>
          
          <div type="bibliography">
