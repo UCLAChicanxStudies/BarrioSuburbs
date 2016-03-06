@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>San Fernando Gardens Housing Project</title>
+            <title>Lockheed Plant</title>
             <author>Mario Rodriguez</author>
          </titleStmt>
          <publicationStmt>
@@ -30,31 +30,31 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>San Fernando Gardens Housing Project was built in 1955, as the only major public housing facility in San Fernando Valley. The housing project was intended to assist low income families whose average income is roughly $11,890(Hernandez). The 1949 Federal Housing Act created housing projects throughout the nation. These housing projects had a cultural legacy of poverty and were logical settlement locations for new immigrant arrivals from Central America. San Fernando Gardens Housing Project has 91 percent Latino population. As Susan Hardwick mentions, “...changes in immigration law in the 1960s opened the way for large numbers of new migrants from Latin America, Asia, and Africa to immigrate to the United States”(44). Suburbs of the San Fernando Valley would be ideal locations for recent arrivals. As shown through Census Data, 21 percent or more residents in the area are foreign born. These statistics highlight a community in transformation to a Latino immigrant gateway.</p>
+            <p>The Lockheed Airport Corporation represented a new industrial wartime economy in the San Fernando Valley. In 1934 Robert E. Gross relocated the company to Union Airport. The Lockheed Plant based in Burbank was an important employer to many throughout the Valley. In particular, some Mexican American families worked in many of the wartime industries that were developed along the railroad corridor cities like Burbank, Pacoima, and San Fernando. Specifically, an oral history of San Fernando native Della Ortega narrated the importance of the Lockheed factory job to her social mobility and economic freedom following tumultuous times in the prior to the war. She worked as a dispatcher for the company and acquired enough income to purchase her own car. Other Mexican American workers participated in similar wartime industries to metigate the labor gap due to the World War II.Today the old Lockheed Plant is located at the presentday Burbank Empire Shopping Center.</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Mario Rodriguez">San Fernando Gardens Housing Project</placeName>
-            <geo>-118.41724753068848 34.26937719570682</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>San Fernando Garden Housing Project represents a legacy of Chican@ settlement, that is transforming into a new suburban immigrant gateway.</p>
+            <placeName type="Mario Rodriguez">Lockheed Plant</placeName>
+            <geo>-118.35323270000004 34.1953614</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Wartime industries such as the Lockheed Plant represented new economies that local San Fernando Chicano/as could participate in.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl>Singer, Audrey. Twenty-First Century Gateways: Immigrant Incorporation in Suburban America. Brookings Institute, 2008. Print.</bibl>
-               <bibl>Hernandez, Efrain,Jr. "Private Struggles in Public Housing; Services: Residents of San Fernando Gardens Live in a Twilight Zone between Welfare and Independence." Los Angeles Times: 1. Sep 15 1997. ProQuest. Web. 24 Feb. 2016.</bibl>
+               <bibl>Ortega, Della., and Ramona Frias. Interview by Amy Kitchner. Shades of LA. Shades of LA Interview Project, 1993. Web. 27 September. 1993.</bibl>
+               <bibl>Barraclough. “South Central Farmers and Shadow Hills Homeowners: Land Use Policy and Relational Racialization in Los Angeles”. The Professional Geographer 16.2 (2009): 164-186. Print.</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="https://en.wikipedia.org/wiki/Pacoima,_Los_Angeles#/media/File:San_Fernando_Gardens_Mural.JPG"/>
+               <graphic url="http://jpg1.lapl.org/00099/00099044.jpg"/>
                <head></head>
-               <note type="attribution">Image A NP, Courtesy of Creative Commons, https://en.wikipedia.org/wiki/Pacoima,_Los_Angeles#/media/File:San_Fernando_Gardens_Mural.JPG Courtesy of LA Public Library,http://jpg1.lapl.org/pics24/00031519.jpg</note>
+               <note type="attribution">Schultheis Herman, 1938 Courtesy of LA Public Library, http://jpg1.lapl.org/00099/00099044.jpg </note>
                <figDesc></figDesc>
             </figure>
             
