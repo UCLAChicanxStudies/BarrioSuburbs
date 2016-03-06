@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Las Tiendas y Iglesia</title>
+            <author>Jose Cardona</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Las tiendas y Iglesia refers to the local Mexican markets and the Catholic churches that are located within the historic barrios of Jurupa Valley. Both of these cultural hubs are critically important for the city that is 68% Hispanic (Policy Map). The churches, which have a longer history of acting as agencies of oppression, have become places of cultural reproduction (Garcia). Today, these churches hold annual festivals and have playgrounds along with other sports facilities for the community to gather around. Similarly, local Mexican markets are places where people can come together to speak spanish, buy certain ingredients that american grocery stores may not have, or just learn about the rumors going around town. These places also lend themselves as spaces that can be used to organize. Having a church and a market in each barrio has created networks between colonials that may be separated by wealthier neighborhoods (Gonzales). </p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Jose Cardona">Jose Cardona, Las Tiendas y Iglesia</placeName>
+            <geo>-117.410 33.998</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Within traditionally disadvantaged communities cultural hubs like small markets and churches are critical in uniting the community.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>“PolicyMappingHispanicPopulation.” Policymap.com. 2010, 2009. Web. 4 Jan 2016.</bibl>
+               <bibl>Gonzales, Alfonso. "Globalization and Demographic Change in Riverside County." Reform without Justice: Latino Migrant Politics and the Homeland Security State. New York: Oxford UP, 2014. N. pag. Print.</bibl>
+               <bibl>Garcia, Matt. A World of Its Own: Race, Labor and Citrus in the Making of Greater Los Angeles, 1900-1970. Chapel Hill ; London: U of North-Carolina, 2001. Print.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
