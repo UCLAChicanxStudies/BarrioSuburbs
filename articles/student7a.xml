@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>InNOut Baldwin CA</title>
+            <title>In-N-Out Baldwin Park CA</title>
             <author>Charles Hathaway</author>
          </titleStmt>
          <publicationStmt>
@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>In the photo we see a replica of a the original In-N-Out. The original In-N-Out was first established in Baldwin Park and now there are over 300 restaurants across the West Coast. The first In-N-Out had to be demolished in 1954 becayse the I-10 was constructed literally over the restaurant. When the first restaurant was demolished another was built adjacent to teh first one and it remained open until 2004. Later on it was this replica of the first In-N-Out that was built in Baldwin Park.</p>
+            <p>In the photo we see a replica of a the original In-N-Out. The original In-N-Out was first established in Baldwin Park and now there are over 300 restaurants across the West Coast. The first In-N-Out had to be demolished in 1954 becayse the I-10 was constructed literally over the restaurant. When the first restaurant was demolished another was built adjacent to the first one and it remained open until 2004. Later on it was this replica of the first In-N-Out that was built in Baldwin Park.</p>
          </div>
       </body>
       
@@ -38,7 +38,7 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Gonzalez">Charles Hathaway In-N-Out Baldwin Park</placeName>
-            <geo>-117.975 34.0689</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-117.9734889 34.0676711</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The replica of the original 1948 In-N-Out Hamburger stand was built.</p>
          </note>
          
