@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ricardo Lara Linear Park</title>
+            <author>Alberto Loaiza</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>It was a big win for Latina/os when it finally got to name one of their parks after one of their Champions. On October 15, 2015 Senator Ricardo Lara cut the ribbon commemorating a park under his name. A city who once protested against changing the name of one of their streets from Century Blvd to Martin Luther King Jr Blvd for the first time is naming a public space after a Latino. The new park runs for five blocks adjacent to the 105 freeway comes with a dog park, children’s playground, a community garden, and Eco-friendly Bioswales. It takes into account the residents who are cut off from Lynwood’s central park due to 105 freeway. In creating open space to be an open space gives room to community engagement and future cultural celebrations.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Alberto Loaiza">Ricardo Lara Linear Park</placeName>
+            <geo>-118.19209814071655 33.91763351551988</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Ricardo Lara Linear Park has a dog park, children’s playground, a community garden, and eco-friendly bioswales. Named after Senator Ricardo Lara, a champion for the Latino Community.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Greyson, Steven. Martin Luther King Jr Opposition. Digital image. Los Angeles Public Library. N.p., 1989. Web. 24 Feb. 2016. http://jpg1.lapl.org/00093/00093123.jpg.</bibl>
+               <bibl>Herald, Compton. "Senator Lara Dedicates Lynwood Park to His Parents." Compton Herald. Compton Herald, 14 Oct. 2015. Web. 24 Feb. 2016.</bibl>
+               <bibl>Citation 3...</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="http://i0.wp.com/comptonherald.com/wp-content/uploads/2015/10/lara-ribbon-cutting-e1444842837802.jpg"/>
+               <head></head>
+               <note type="attribution">Alberto Loaiza, 2/24/16 Image Courtesy of Compton Herald</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mariachi Plaza</title>
+            <author>Hilda Arteaga</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>LA’s Latino residents have a long history of transforming land based on social, economic, and cultural needs and since American cities are not designed like cities in Latin America, many Latino communities streets are used as “plazas” and other open areas to create places for interactions. Thus, the building of Mariachi Plaza on First St. in Boyle Heights is reflective of the communities’ culture and needs. For instance, the stone kiosk was donated by the state of Jalisco, Mexico where Mariachi music is said to have originated in and where most of the Boyle Heights residents have migrated from which is Mexico. Therefore, the current incorporation of Mexican culture in Boyle Heights, reflects the shift in population over the years from a predominately Euro American population, which included Slavs, Greeks, Mexicans, Japanese and Italian residents to present day, in which Latino’s constitute 94% of the population of Boyle Heights.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Hilda Arteaga">Mariachi Plaza</placeName>
+            <geo>-118.219648 34.047215 </geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Mariachi Plaza is a representation of the community’s identity and culture as it encompasses the neighborhoods Latino population.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>http://s3-media1.fl.yelpcdn.com/bphoto/gslFkzIQyMQXY-A8hH21yw/o.jpg</bibl>
+               <bibl>Citation 2...</bibl>
+               <bibl>Citation 3...</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">http://s3-media1.fl.yelpcdn.com/bphoto/gslFkzIQyMQXY-A8hH21yw/o.jpg</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>

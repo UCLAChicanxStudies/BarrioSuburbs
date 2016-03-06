@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Euclid Avenue Mule Cart</title>
+            <author>Kathya Rodriguez</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>The mule cart on Euclid Avenue began to carry passengers in 1887. The cart went all the way up to 24th Street, thus allowing residents to go to and from jobs, homes, and downtown Ontario. It was also called the “gravity mule cart” because the trolley relied on gravity on its way back down. In 1895 the mules were replaced by electricity. This innovative cart was a pivotal part of the colony’s development. It was the first form of transportation, thus allowing easier access to places to its residents. It was specially important for the development of minority communities in the area, such as the Mexican community. The trolley allowed Mexican residents to travel to the barrio. Thus, this cart helped the community keep its roots and its support for one another.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Kathya Rodriguez">Euclid Avenue Mule Cart</placeName>
+            <geo>-117.651037 34.064584</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>It was specially important for the development of minority communities in the area, such as the Mexican community.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Diaz, David R. "Barrio Logic and the Consolidation of Chicanas/os in the City." Barrio Urbanism: Chicanos, Planning, and American Cities. New York: Routledge, 2005. 51-55. Print.</bibl>
+               <bibl>Ontario and San Antonio Heights Railroad Company's mule car on Euclid Avenue. Ontario. ca.1890. Photograph. University of Southern California. Libraries. USC Digital Library. 21 Feb 2016. http://digitallibrary.usc.edu/cdm/singleitem/collection/p15799coll65/id/5928/rec/5.</bibl>
+               <bibl>Orozco, Luz. Euclid Avenue Mules Cart. 2016. Photograph.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="http://digitallibrary.usc.edu/utils/getthumbnail/collection/p15799coll65/id/5928"/>
+               <head></head>
+               <note type="attribution">1890. Image Courtesy of University of Southern California. Libraries, http://digitallibrary.usc.edu/cdm/singleitem/collection/p15799coll65/id/5928/rec/5</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>

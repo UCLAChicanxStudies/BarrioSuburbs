@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Long Beach</title>
+            <author>Ernesto Rocha</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>The City of Long Beach is located at the Southern end of the Los Angeles River and is home to one of the largest port complexes in the country. Since the 1980’s economic and political refugees have immigrated and out-migrated to these suburbs from traditional gateways cities, like Los Angeles, in search of work as they followed these large industrial corporations (Singer, 6). The turn over of ethnic succession from predominantly white, middle class to a Black and Latino workforce has transformed the ethnic make up of the city making it one of the most diverse in the country. These same worksites serve not just as places for employment but also as sites of struggle and contestation from workers and communities that experience poverty and economic stagnation. Workers in industries like port trucking, warehousing and home healthcare are among the most susceptible to low wages, wage theft and other work related abuses (Flaming, 3).</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Ernesto Rocha">Ernesto Rocha Port of Long Beach/Long Beach</placeName>
+            <geo>-118.21645799999999 33.7541850019184</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Long Beach stands as a site of vast economic development vis-à-vis worker marginalization and environmental degradation.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Singer, Audrey. Twenty-First Century Gateways: Immigrant Incorporation in Suburban America. 
+Brookings Institution Press. Washington D.C. February 2016. 
+https://moodle2.sscnet.ucla.edu/pluginfile.php/276439/mod_resource/content/0/sca
+n0059.pdf</bibl>
+               <bibl>Flaming, Daniel et al. “Long Beach Rising: A City that Works for Everyone”. Economic 
+Roundtable. Los Angeles. October 2015. http://economicrt.org/publication/long-
+beach-rising</bibl>
+               <bibl>Citation 3...</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Ernesto Rocha, February 8, 2016. Image Courtesy of Ernesto Rocha</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>

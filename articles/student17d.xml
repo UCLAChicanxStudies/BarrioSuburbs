@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>El Parque de México</title>
+            <author>Michelle Rolon</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Placed in the entrance of Lincoln Park, El Parque de México is a sculpture garden that encompasses statues and busts of iconic revolutionary figures of Mexican and Mexican American culture. The reason for the creation of this park was to portray the Mexican presence of Lincoln Heights and the political ties between Mexico and the United States (Becerra). Statues of icons such as Emperor Cuauhtemoc, Dolores Huerta, and Emiliano Zapata can be seen with plaques that offer historically accounts of the persona as well as their contributions (Brown Pride). Ultimately in 1996, the Department of Cultural Affairs of the City of Los Angeles and Urban Art Inc. had agreed upon the preservation and restoration of El Parque de México (Urban Art Inc). In present day, sponsors use the park to hold festivities of cultural relevance that celebrate Mexican identity.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Michelle Rolon">El Parque de México</placeName>
+            <geo>-118.19919570000002 34.0658872</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>El Parque de México is a sculpture garden that encompasses iconic revolutionary figures of Mexican and Mexican American culture.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>"El Parque De México." Congressman Xavier Becerra : California's 34th Congressional District. Dems.Gov, n.d. Web. 20 Feb. 2016.</bibl>
+               <bibl>Cultural Affairs Department of the City of Los Angeles and Save Outdoor Sculpture. "Lincoln Park (El Parque De Mexico); Statues and Sculptures." Public Art In LA. Urban Art Inc., n.d. Web. 19 Feb. 2016.</bibl>
+               <bibl>"Sculptures in Lincoln Park/El Parque De Mexico." Brown Pride. Brown Pride, n.d. Web. 19 Feb. 2016.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Michelle Rolon, February 15. 2016, Courtesey of Michelle Rolon</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
