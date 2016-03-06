@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Boyle Heights</title>
+            <author>Hilda Arteaga</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>The demand for more manufacturing space caused the relocation of communities living in or near the surrounding area into preexisting Anglo suburbs, one of which was Boyle Heights. Ever since, there has been an increase in Latinos inhabiting Boyle Heights in comparison to the 1920s when the dominate population was Euro Americans. Prior to the forceful relocation of these communities, the area was multiracial and included, Slavs, Greeks, Mexicans, Japanese and Italian residents, which, unlike the population today entails over 90% Mexicans or people of Hispanic origin. The shift occurred due to the influence of the industrial era, in which the demand for labor and better housing opportunities became a determining factor in the spatial formation of communities. As a result of this shift, racial tensions intensified and caused “white flight”, which ultimately left the space open to the newcomers and paved the way for Latino Suburbanization.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Hilda Arteaga">Boyle Heights</placeName>
+            <geo>-118.15963550000003 34.03517028917258</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Latino suburbanization was created out of the need for low wage workers and settlement space in the Los Angeles area.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>https://calisphere.org/item/ark:/13030/tf9489p57z/</bibl>
+               <bibl>Citation 2...</bibl>
+               <bibl>Citation 3...</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Pierce, Bruce Wellington,1888,Courtesy of  Calisphere, Pierce, Bruce Wellington.</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
