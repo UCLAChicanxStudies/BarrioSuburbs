@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Bilingual Foundation of the Arts</title>
+            <author>Michelle Rolon</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Located in the abandoned Lincoln Heights Jail, the Bilingual Foundation of Arts was established in 1973 by Mexican-American actress Carmen Zapata and director Margarita Galban (BFA). Due to the lack of Latin#064;s in Hollywood and other spheres of entertainment, the founders centered their nonprofit organization with the mission to create a recognized space for productions of Spanish-language masterworks and contemporary plays by Latin American writers. The Bilingual Foundation of Arts also opened an opportunity for Latin#064;s to venture into the world of the arts through theater related professions such as directing, acting, scriptwriting, and set designing (Woo). Thus, the organization became a success and is still warmly active. After 38 years of being located in Lincoln Heights, the BFA has moved into a new location due to the facility dubbed as unsafe by the city’s fire department (Garcia). The theater house currently resides in Downtown L.A.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Michelle Rolon">The Bilingual Foundation of the Arts</placeName>
+            <geo>-117.2712717 32.8328112</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>The Bilingual Foundation of Arts was established in 1973 with the mission to create a recognized theater space for Latin Americans.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Bilingual Foundation of the Arts. N.p., n.d. Web. 19 Feb. 2016.</bibl>
+               <bibl>Woo, Elaine. "Carmen Zapata Dies at 86; Actress Launched Bilingual Theater Company." Los Angeles Times. Los Angeles Times, 07 Jan. 2014. Web. 20 Feb. 2016.</bibl>
+               <bibl>Garcia, Jacqueline. "BFA Bids Farewell to Lincoln Heights." Eastern Group Publications. EGPNews, 12 July 2014. Web. 21 Feb. 2016.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Michelle Rolon, February 15. 2016, Courtesey of Michelle Rolon</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>

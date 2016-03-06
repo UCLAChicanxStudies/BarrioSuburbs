@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>East L.A. Walkouts at Abraham Lincoln High School</title>
+            <author>Michelle Rolon</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Abraham Lincoln High School is a historic platform of the early Chicano Movement due to strong student activism in the 1968 East L.A. Blowouts. Because of the hostile and racist education sector towards Mexican Americans students, the East Los Angeles community united to create demands for the Board of Education. The demands included integration of ethnic studies classes and better school facilities (Garcia). After the demands were ignored, Sal Castro, a teacher from Lincoln High, and other community leaders became involved to organize student walkouts in different schools from East L.A. (Watanabe). In March, more than 2,000 students from five schools began to peacefully walk out of their campuses in protest. Students were immediately met with violent beatings via police officers, but this did not interrupt the walkouts. On March 28, 1,200 people attended the community meeting at Lincoln High where the demands were brought forth to the Board (Contreras).</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Michelle Rolon">Abraham Lincoln High School</placeName>
+            <geo>-118.2040366 34.0747068</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Abraham Lincoln High School is a historic platform of the Chicano Movement due to strong student activism in the 1968 East L.A. Blowouts.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Garcia, Mario T. “Blowout: Sal Castro and the Chicano Struggle for Educational Justice.” Blowout: The 40th Anniversary Conference on the 1968 East Los Angeles Chicano Student Walkouts. UCSB Chicano Studies Institute. UCSB February 20th 2008.</bibl>
+               <bibl>Contreras, Rebecca. "East Los Angeles Students Walkout for Educational Reform (East L.A. Blowouts), 1968." Global Nonviolent Action Database. Global Nonviolent Action Database, 24 Apr. 2011. Web. 19 Feb. 2016.</bibl>
+               <bibl>Watanabe, Teresa. "Sal Castro, Teacher Who Led '68 Chicano Student Walkouts, Dies at 79." Los Angeles Times. Los Angeles Times, 15 Apr. 2013. Web. 18 Feb. 2016.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Michelle Rolon, February 15. 2016, Courtesey of Michelle Rolon</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
