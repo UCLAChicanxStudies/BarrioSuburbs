@@ -30,7 +30,7 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Boyle Heights has served as a gateway neighborhood for hundreds of new immigrants throughout various periods in history. Beginning in the 1900’s we begin to see an increase in immigration tied to the growing industrial revolution and Bracero program taking place at this time and which attracted Slavs, Greeks, Mexicans, Japanese, Italian and Jewish people into the Boyle Heights community. Therefore, the Evergreen Cemetery present in Boyle Heights today serves as evidence of the diverse ethnic past once present in the community through its preservation of the separate ethnic sections still present at the graveyard, which separate Armenian, Japanese, and Mexican tombstones. Thus, this cemetery serves as a gateway into the past for the current Latino community and also helps illustrate the ethnic succession that took place over the years</p>
+            <p>Boyle Heights has served as a gateway neighborhood for hundreds of new immigrants throughout various periods in history. Beginning in the 1900s we begin to see an increase in immigration tied to the growing industrial revolution and Bracero program taking place at this time and which attracted Slavs, Greeks, Mexicans, Japanese, Italian and Jewish people into the Boyle Heights community. Therefore, the Evergreen Cemetery present in Boyle Heights today serves as evidence of the diverse ethnic past once present in the community through its preservation of the separate ethnic sections still present at the graveyard, which separate Armenian, Japanese, and Mexican tombstones. Thus, this cemetery serves as a gateway into the past for the current Latino community and also helps illustrate the ethnic succession that took place over the years</p>
          </div>
       </body>
       
@@ -38,13 +38,13 @@
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Hilda Arteaga">Evergreen Cemetery</placeName>
-            <geo>-118.19783430000001 34.0402926 </geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <geo>-118.19783430000001 34.0402926</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>The separate ethnic sections present at Evergreen Cemetery, illustrate the once racially diverse community of Boyle Heights.</p>
          </note>
          
          <div type="bibliography">
             <listBibl>
-               <bibl></bibl>
+               <bibl>Citation 1...</bibl>
                <bibl>Citation 2...</bibl>
                <bibl>Citation 3...</bibl>
             </listBibl>
@@ -52,9 +52,9 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url=""/>
+               <graphic url="boxlink.jpg"/>
                <head></head>
-               <note type="attribution"></note>
+               <note type="attribution">Courtesy Line</note>
                <figDesc></figDesc>
             </figure>
             
