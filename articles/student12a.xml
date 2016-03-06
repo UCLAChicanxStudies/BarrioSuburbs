@@ -30,14 +30,14 @@
       
       <body>
          <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
-            <p>Santa Ana transformed  from a historically exclusive majority White conservative city in Republican dominated Orange County into a Barrio Suburb. A historically agricultural region, Orange County controlled Chicano/as through social repression, as well as through economic, educational, and housing control. Diaz describes Chicano/as as, “relegated to second-tier status…the community resided in small agricultural encampments or segregated barrios” (Diaz 265). The transformation from an agriburb that enforced a colonial economy to an industrial and working class suburb changed the dynamics of the cities population. Diaz’s book Barrio Urbanism Chicanos, Planning,and American Cities, details how capitalism’s globalization contributed to the need for service oriented labor, therefore, an influx of Mexican American, and Mexican immigrants filled in the void of low wage workers described as, “suburbanization started in the late 1960s the regional economy restructured into real estate, banking, tourism (led by Disneyland), services, retail, and limited industrial development” (Diaz 85).</p>
+            <p>Santa Ana transformed from a historically exclusive majority white conservative city in Republican dominated Orange County into a Barrio Suburb. A historically agricultural region, Orange County controlled Chicano/as through social repression, as well as through economic, educational, and housing control. Diaz describes Chicano/as as, “relegated to second-tier status…the community resided in small agricultural encampments or segregated barrios” (Diaz 265). The transformation from an agriburb that enforced a colonial economy to an industrial and working class suburb changed the dynamics of the cities population. Diaz’s book Barrio Urbanism Chicanos, Planning,and American Cities, details how capitalism’s globalization contributed to the need for service oriented labor, therefore, an influx of Mexican American, and Mexican immigrants filled in the void of low wage workers described as, “suburbanization started in the late 1960s the regional economy restructured into real estate, banking, tourism (led by Disneyland), services, retail, and limited industrial development” (Diaz 85).</p>
          </div>
       </body>
       
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Jorge E. Quiroz Moreno">Jorge E. Quiroz Moreno Santa Ana Water Tower</placeName>
+            <placeName type="Jorge E. Quiroz Moreno">Santa Ana Water Tower</placeName>
             <geo>-117.86173577724611 33.7570861592983</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Santa Ana water tower on 14th and Poinsettia Streets. It has the words Santa Ana on it. It was built in 1928 and holds one million gallons.</p>
          </note>
