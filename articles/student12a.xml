@@ -39,7 +39,7 @@
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
             <placeName type="Jorge E. Quiroz Moreno">Santa Ana Water Tower</placeName>
             <geo>-117.86173577724611 33.7570861592983</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
-            <p>Santa Ana water tower on 14th and Poinsettia Streets. It has the words Santa Ana on it. It was built in 1928 and holds one million gallons.</p>
+            <p>The Santa Ana water tower on 14th and Poinsettia Streets. It has the words 'Santa Ana' on it and was built in 1928. It holds one million gallons.</p>
          </note>
          
          <div type="bibliography">
