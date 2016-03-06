@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The 710</title>
+            <author>Ernesto Rocha</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Built in the 1930s as a highway, the emblematic 710 Interstate is one of the main transportation corridors in Long Beach. This 23-mile stretch of interstate runs along the Los Angeles riverbed, connecting other major highways, rail, and goods movement transportation hubs to the Port of Long Beach (California Department of Transportation, 2016). This highway travels through other smaller hub cities like Huntington Park, Commerce, South Gate, Bell and Maywood, that like Long Beach, share a history in the development of specialized industries that attracted many working class families during the 1950s (Fulton, 73). Because of its central location, the 710 highway serves as the main transportation artery in the movement of goods as well as day-to-day transit. This has posed a hazardous problem to the surrounding communities as it sees the constant movement of diesel trucks, trailers and passenger cars that contribute to the degradation of the environment and poor air quality (Pulido).</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Ernesto Rocha">The 710-Artery for the movements of goods and people. (710 Freeway at Willow Ave)</placeName>
+            <geo>-118.20795013659665 33.78999449127457</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>'The 710' as we locally know it, is the major artery for the movement of goods and people, to and from Long Beach. It is a major contributor to pollution as well.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>California Department of Transportation. n.d. 22 February 2016, http://www.dot.ca.gov/aboutcaltrans.htm.</bibl>
+               <bibl>Fulton, William. The Reluctant Metropolis: The Politics of Urban Growth in Los Angeles. Solano Press Books, n.d.</bibl>
+               <bibl>Pulido, Laura. "Rethinking Environmental Racism: White Privilege and Urban Development in Southern California." Annals of the Association of American Geographers 90.1 (2000): 12-40.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Ernesto Rocha, February 8 2016, Courtesy of Ernesto Rocha</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>

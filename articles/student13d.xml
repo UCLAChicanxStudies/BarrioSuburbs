@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Population Change (James A. Garfield Elementary School)</title>
+            <author>Ernesto Rocha</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Originally built in 1915, James A. Garfield Elementary is one of the oldest elementary schools in Long Beach (California Department of Education, 2016). This was the elementary school that I attended, but the demographics of the students represented at the school and the surrounding neighborhoods during the late 1990s is dramatically different from when it was first opened. We can see from the U.S. Census reports gathered in 1920, and 2010 how the population in Los Angeles County and Long Beach has shifted from a predominantly native born white race to a more diverse, on white and foreign born race (U.S. Census Bureau). In 1920, the percentage of Native White was at 77.7%, 17.8% for Foreign Born White and 2% Negro. In 2010, the Native White population hailed at 30%, Black or African-American at 14%, Latino or Hispanic at 41% and the Asian-American/Pacific Islander at 14% (U.S. Census Bureau). This differential is marked by the racial succession that has occurred throughout the city in tow with the industrialization and subsequent waves of immigration (Nicolaides).</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Ernesto Rocha">Population Change. (James A. Garfield Elementary School)</placeName>
+            <geo>-118.21319060000002 33.79804410000001</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Racial successions have occurred through out the early part of the 20th Century as white natives fled the suburbs only to be replaced by non-white, immigrant settlers. </p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>California Department of Education. "Garfield Elementary- School Accountability Report Card." California Department of Education, 2014-2015.</bibl>
+               <bibl>United States Census Bureau. "Census Population and Housing, 1920 and 2010." U.S. Department of Commerce; 1920, 2010.</bibl>
+               <bibl>Nicolaides, Becky M. and Andrew Wiese. "The Suburb Reader." New York: Routledge, n.d. 1-223.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Ernesto Rocha, February 8 2016, Courtesy of Ernesto Rocha</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
