@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>HIGHLAND PARK MASONIC TEMPLE</title>
+                <author>Monica Rodas</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher></publisher>
+                <date when="2015">Winter 2016</date>
+            </publicationStmt>
+            <notesStmt>
+                <relatedItem>
+                    <bibl>
+                        <author></author>
+                    </bibl>
+                </relatedItem>
+            </notesStmt>
+            <sourceDesc>
+                <bibl/>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        
+        <body>
+            <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+                <p>Prior to becoming a Latino suburb, Highland Park was historically a white residential area with occupations, such as skilled artisans, white-collar workers and small business and professional men. The Highland Park Masonic Temple is a historical two-story building, which is now home to L.A. City Councilmember Gil Cedillo’s District Office and two other businesses; along with these businesses/office, the second floor is available for banquets and special events. However, this historic building was a meeting space for freemasons and their fraternal organization, which exemplifies the artisan occupations held by early residents of Highland Park. Today, the preservation of the Masonic Temple has opened a space for Latino politician, Gil Cedillo, to establish his district office and closely engage with the predominantly Latino community. Over time, ethnic succession became visible in demographics and the use of public spaces changed accordingly to the Latino suburb that was rapidly growing in Highland Park.  </p>
+            </div>
+        </body>
+        
+        <back>
+            
+            <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+                <placeName type="Monica Rodas">Highland Park Masonic Temple</placeName>
+                <geo>-118.19436 34.1089</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+                <p>The Highland Park Masonic Temple reflects on how ethnic succession occurred through changes in rituals, politics, and businesses in the area. </p>
+            </note>
+            
+            <div type="bibliography">
+                <listBibl>
+                    <bibl>Sanchez, George J. "'What's Good for Boyle Heights Is Good for the Jews': Creating Multiracialism on the Eastside during the 1950s." American Quarterly, 56.3 (Sept. 2004).</bibl>
+                    <bibl>Bates, Betsy. "Old Masonic Lodge: Past and Present Win Appreciation." Los Angeles Times, 11 May 1990. Web.</bibl>
+                    <bibl>"Highland Park (Historical GIS)." T-RACES: Demo. Sustainable Archives and Leveraging Technologies. Web. 27 Jan. 2016.</bibl>
+                </listBibl>
+            </div>
+            
+            <div type="images">
+                <figure xml:id="fig1">
+                    <graphic url="boxlink.jpg"/>
+                    <head></head>
+                    <note type="attribution">Monica Rodas, 20 February 2016, Courtesy of Calisphere</note>
+                    <figDesc></figDesc>
+                </figure>
+                
+                    <figure xml:id="fig2">
+                        <graphic url="boxlink.jpg"/>
+                        <head></head>
+                        <note type="attribution">Monica Rodas, 20 February 2016, Courtesy of Monica Rodas</note>
+                        <figDesc></figDesc>
+                    </figure>
+                </div>
+        </back>
+    </text>
+</TEI>
