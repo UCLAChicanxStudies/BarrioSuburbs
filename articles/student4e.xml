@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rubidoux Swapmeet</title>
+            <author>Jose Cardona</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>The Rubidoux swap meet was built during the 1950s when Riverside County was going through many changes. Big industry provided many Anglo-Americans with good paying jobs (Gonzales). WWII created many job opportunities that Mexican immigrants were ready to fill. As a result, white flight occurred and whites headed inland--toward Riverside. The Rubidoux Drive-In theater was created at this time. The Drive-In was a a gathering place for whites, adding to the idea of a "romantic suburb" where middle class America had very little worries. By the 1980s and 1990s many good paying industries had left Riverside County, resulting in the fleeing of whites. Jurupa Valley and areas near by became new "immigrant gateways," since new jobs that relied on cheap, flexible labor opened up (Audrey). The demographic shift transformed the Rubidoux Drive-In to the Rubidoux Swap Meet--a place that is now a Latino cutural hub.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Jose Cardona">Jose Cardona, Rubidoux Swap Meet</placeName>
+            <geo>-117.424 34.007</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>As the Rubidoux Swap Meet transformed over time, so did the city of Jurupa Valley. </p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Gonzales, Alfonso. "Globalization and Demographic Change in Riverside County." Reform without Justice: Latino Migrant Politics and the Homeland Security State. New York: Oxford UP, 2014. N. pag. Print.</bibl>
+               <bibl>Singer, Audrey, Susan Wiley. Hardwick, and Caroline Brettell. Twenty-first-century Gateways: Immigrant Incorporation in Suburban America. Washington, D.C.: Brookings Institution, 2008. Print.</bibl>
+               <bibl>“PolicyMappingHispanicPopulation.” Policymap.com. 2010, 2009. Web. 4 Jan 2016.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Jose Cardona, 2/20/2016. Images Courtesy of Jose Cardona</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
