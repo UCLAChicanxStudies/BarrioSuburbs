@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Logan Neighborhood</title>
+            <author>Kevin Martinez</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>The Logan neighborhood is comprised of six square blocks in the shadow of the Santa Ana Freeway (5-fwy). Its creations in Santa Ana arose in the 1890s. During this time, Santa Ana was segregated and residents with a Mexican background were not allowed to attend white schools or live in white neighborhoods (Diaz 1775). Its ethnic character made the Logan Neighborhood one of the original ‘barrios’ in Santa Ana. Although the neighborhood is still predominantly Latino, of the estimated 50 houses in the barrio, many of the newer occupants are relatively recent arrivals from Mexico. The barrio is also home to La Chiquita Mexican Restaurant, an important landmark establishment in the city of Santa Ana. Its owner, Sammy Montoya, purchased the restaurant and the similarly named mini-grocery store next door in 1994. In 2013, Sammy donated his stores’ exterior wall to Carlos Aguilar to paint a mural to honor Santa Ana's WWII veterans (Los Angeles Times).</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Kevin Martinez">Logan</placeName>
+            <geo>-117.85718 33.75563</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Logan was one of the first Mexican barrios within the city of Santa Ana at a time when the city was segregated by racial fault lines.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. New York: Routledge, 2005. Print.</bibl>
+               <bibl>Santa Ana Artist Honors City's WWII Veterans. The Orange County Register. 5 July 2012. Web. 24 Feb. 2016.</bibl>
+               <bibl>Logan Barrio, Santa Ana, California." Santa Ana History - Historic Logan Barrio, Santa Ana, California. Web. 24 Feb. 2016.</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Kevin Martinez, 8 February 2016, Courtesy of Kevin Martinez</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
