@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Boyle Heights</title>
+            <author>Bernice Andrade</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher></publisher>
+            <date when="2015">Winter 2016</date>
+         </publicationStmt>
+         <notesStmt>
+            <relatedItem>
+               <bibl>
+                  <author></author>
+               </bibl>
+            </relatedItem>
+         </notesStmt>
+         <sourceDesc>
+            <bibl/>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   
+   <text>
+      
+      <body>
+         <div type="article"><!-- Enclose each paragraph of your text in a new <p></p> tag. -->
+            <p>Boyle Heights is currently a densely populated Mexican-American neighborhood in East Los Angeles. Historically it has functioned as an immigrant gateway due to the availability of industry-related jobs, and immigrant exclusion from middle-class Anglo communities on the west side. By the late 1930s Boyle Heights consequently became a haven for diverse ethnic groups. This included Jews, Mexicans, Japanese, Italians, Armenians, African Americans, and Russians. Given their exclusion, Boyle Heights became a site of multiracial organizing. Then, after World War II a population boom led to overcrowding. Contributing factors included the return of World War II veterans and Japanese Americans from internment camps, as well as the influx of Mexican Braceros. In search of better housing, Euro-Americans eventually out-migrated to the west side causing the Eastside to become predominantly Mexican-American. In spite of this, Boyle Height’s multiracial roots prove to be an important part of the rich Mexican-American culture that characterizes it today.</p>
+         </div>
+      </body>
+      
+      <back>
+         
+         <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
+            <placeName type="Bernice Andrade">Bernice Andrade Boyle Heights</placeName>
+            <geo>-118.21281160000001 34.0443542</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
+            <p>Boyle Height’s multiracial roots prove to be an important part of the rich Mexican-American culture that characterizes it today.</p>
+         </note>
+         
+         <div type="bibliography">
+            <listBibl>
+               <bibl>Diaz, David R. Barrio Urbanism: Chicanos, Planning, and American Cities. New York: 
+Routledge, 2005. Print.</bibl>
+               <bibl>Sanchez, George J. “What's Good for Boyle Heights Is Good for the Jews": Creating 
+Multiracialism on the Eastside during the 1950s.” American Quarterly 56.3 (2004): 633–661. Print.</bibl>
+               <bibl>“Boyle Heights.” Mapping L.A. Los Angeles Times, n.d. Web. 8 Feb. 2016. 
+http://maps.latimes.com/neighborhoods/</bibl>
+            </listBibl>
+         </div>
+         
+         <div type="images">
+            <figure xml:id="fig1">
+               <graphic url="boxlink.jpg"/>
+               <head></head>
+               <note type="attribution">Courtesy of Boyle Heights appreciation blog, http://boyleheights.tumblr.com/about</note>
+               <figDesc></figDesc>
+            </figure>
+            
+         </div>
+      </back>
+   </text>
+</TEI>
