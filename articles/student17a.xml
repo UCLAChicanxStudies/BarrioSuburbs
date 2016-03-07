@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Michelle Rolon">Michelle Rolon Lincoln Heights</placeName>
+            <placeName type="Michelle Rolon">Lincoln Heights</placeName>
             <geo>-118.21150929999999 34.0739389</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Lincoln Heights is a traditional area that holds notable preserved history of its beginning and present identification as a suburb.</p>
          </note>
