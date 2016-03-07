@@ -45,14 +45,12 @@
          <div type="bibliography">
             <listBibl>
                <bibl>"Maywood César Chávez Library." Maywood César Chávez Library. N.p., n.d. Web. 19 Feb. 2016.</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://i.imgur.com/VIef57U.jpg"/>
                <head></head>
                <note type="attribution">Enrique Carranza, 12 Feburary 2016. Courtesy of Enrique Carranza</note>
                <figDesc></figDesc>
