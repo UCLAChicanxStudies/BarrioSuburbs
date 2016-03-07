@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Gabriel Chan">Huntington Park</placeName>
+            <placeName type="Gabriel Chan">Tierra Mia Coffee</placeName>
             <geo>-118.2249218 33.9785049</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>Tierra Mia Coffee’s success is evidence of the growing purchasing power of Latinos. The stores also act as community gathering places.</p>
          </note>
@@ -46,7 +46,6 @@
             <listBibl>
                <bibl>Silva, Valentina. "Bringing It All Back Home: The Rise of the Latino Coffeehouse in Los Angeles." The Guardian. Guardian News and Media, 25 Jan. 2016. Web. 24 Feb. 2016.</bibl>
                <bibl>Wolfson, Julie. "A Coffee Crawl With Tierra Mia's Ulysses Romero." Sprudge. Sprudge Media Network, 11 Dec. 2015. Web. 24 Feb. 2016.</bibl>
-               <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
