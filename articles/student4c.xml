@@ -57,6 +57,18 @@
                <note type="attribution">Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona</note>
                <figDesc></figDesc>
             </figure>
+            <figure xml:id="fig2">
+               <graphic url="http://i.imgur.com/Y331jH5.jpg"/>
+               <head></head>
+               <note type="attribution">Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="http://i.imgur.com/9aMVCYw.jpg"/>
+               <head></head>
+               <note type="attribution">Jose Cardona, 2/20/16. Images Courtesy of Jose Cardona</note>
+               <figDesc></figDesc>
+            </figure>
             
          </div>
       </back>
