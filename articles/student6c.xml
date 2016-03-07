@@ -37,7 +37,7 @@
       <back>
          
          <note type="mapmarker"><!-- this will be the title & text in your map marker pop-up -->
-            <placeName type="Gabriel Chan">Huntington Park</placeName>
+            <placeName type="Gabriel Chan">Exide Recycling Plant</placeName>
             <geo>-118.192681 34.008279</geo><!-- geocoordinates here. !! enter in the lattitude first, then the longitude !! you can look up coordinates here: http://www.gps-coordinates.net -->
             <p>After decades of polluting the surrounding area, Exide Technologies’ battery recycling plant in Vernon is shutting down. The cleanup is ongoing.</p>
          </note>
