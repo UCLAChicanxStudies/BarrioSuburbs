@@ -45,14 +45,12 @@
          <div type="bibliography">
             <listBibl>
                <bibl>Aviles, Carlos. Welcome to Baldwin Park Patch Latino. Photograph. Baldwin Park, CA.</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://i.imgur.com/mg9sscy.png"/>
                <head></head>
                <note type="attribution">Carlos Aviles, 11 Dec. 2011, Cortesy of Carlos Aviles, http://patch.com/california/baldwinpark/welcome-video-english-version</note>
                <figDesc></figDesc>
