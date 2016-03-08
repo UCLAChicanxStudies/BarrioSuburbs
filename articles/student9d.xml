@@ -45,14 +45,12 @@
          <div type="bibliography">
             <listBibl>
                <bibl>The Los Angeles Times. Mapping Los Angeles. Web. 13 February 2016. </bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://i.imgur.com/tp8GZaL.jpg"/>
                <head></head>
                <note type="attribution">Kathryn Loutzenheiser, 20 February 2016, Courtesy of Kathryn Loutzenheiser</note>
                <figDesc></figDesc>
