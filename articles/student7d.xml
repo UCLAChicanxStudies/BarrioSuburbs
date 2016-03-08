@@ -45,14 +45,12 @@
          <div type="bibliography">
             <listBibl>
                <bibl>City of Baldwin Park. Esther Snyder Community Center. 2016. Photograph. Baldwin Park, CA.</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://i.imgur.com/LU3CpCM.png"/>
                <head></head>
                <note type="attribution">City of Baldwin Park, 16 Feb. 2016, Courtesy of the City of Baldwin Park, http://www.baldwinpark.com/index.php/recreation/facilities/community-center</note>
                <figDesc></figDesc>
