@@ -45,14 +45,12 @@
          <div type="bibliography">
             <listBibl>
                <bibl>Martinez, Kany. BPUSD Adult and Community Education Campus. 2013. Photograph. Panoramio, Baldwin Park, CA.</bibl>
-               <bibl>Citation 2...</bibl>
-               <bibl>Citation 3...</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="http://static.panoramio.com/photos/large/93638276.jpg"/>
+               <graphic url="http://i.imgur.com/rHmkX64.png"/>
                <head></head>
                <note type="attribution">Kany Martinez, 24 July 2013, Courtesy of Kany Martinez, http://www.panoramio.com/photo/93638276</note>
                <figDesc></figDesc>
