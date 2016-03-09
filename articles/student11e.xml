@@ -46,13 +46,24 @@
             <listBibl>
                <bibl>"Street Art Festival." N.p., n.d. Web. 24 Feb. 2016.</bibl>
                <bibl>Vallejo, Jody Agius. Barrios to Burbs: The Making of the Mexican American Middle Class. N.p.:  n.p., n.d. Print.</bibl>
-               <bibl>citation</bibl>
             </listBibl>
          </div>
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://i.imgur.com/wGFyqwc.jpg"/>
+               <head></head>
+               <note type="attribution">Berenice Meza, 21 February 2016, Image Courtesy of Berenice Meza</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="http://i.imgur.com/D10AU5X.jpg"/>
+               <head></head>
+               <note type="attribution">Berenice Meza, 21 February 2016, Image Courtesy of Berenice Meza</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="http://i.imgur.com/rgmPOD5.jpg"/>
                <head></head>
                <note type="attribution">Berenice Meza, 21 February 2016, Image Courtesy of Berenice Meza</note>
                <figDesc></figDesc>
