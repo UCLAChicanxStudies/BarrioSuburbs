@@ -52,7 +52,25 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://i.imgur.com/cU5xjht.jpg"/>
+               <head></head>
+               <note type="attribution">Michelle Rolon, February 15. 2016, Courtesey of Michelle Rolon</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="http://i.imgur.com/ElfRLFo.jpg"/>
+               <head></head>
+               <note type="attribution">Michelle Rolon, February 15. 2016, Courtesey of Michelle Rolon</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="http://i.imgur.com/RQeE6Ui.jpg"/>
+               <head></head>
+               <note type="attribution">Michelle Rolon, February 15. 2016, Courtesey of Michelle Rolon</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig4">
+               <graphic url="http://i.imgur.com/n6doPA2.jpg"/>
                <head></head>
                <note type="attribution">Michelle Rolon, February 15. 2016, Courtesey of Michelle Rolon</note>
                <figDesc></figDesc>
