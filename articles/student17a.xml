@@ -52,9 +52,21 @@
          
          <div type="images">
             <figure xml:id="fig1">
-               <graphic url="boxlink.jpg"/>
+               <graphic url="http://i.imgur.com/srOo8Y9.jpg"/>
                <head></head>
                <note type="attribution">Map by L.A. Hotel and Travel Bureau, 1894, Courtesy of the Library of Congress and Big Map Blog, http://www.kcet.org/updaily/socal_focus/history/la-as-subject/who-moved-east-la.html</note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig2">
+               <graphic url="http://i.imgur.com/A8F9nPA.jpg"/>
+               <head></head>
+               <note type="attribution"></note>
+               <figDesc></figDesc>
+            </figure>
+            <figure xml:id="fig3">
+               <graphic url="http://i.imgur.com/wWaEBWC.jpg"/>
+               <head></head>
+               <note type="attribution"></note>
                <figDesc></figDesc>
             </figure>
             
