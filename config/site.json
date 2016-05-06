@@ -16,15 +16,6 @@
                                             , "page" : "title.html" } }
                             , { "view"    : "views/menu"  }
                         ],
-                        "about"  : [
-                              { "view"    : "views/issue" }
-                            , { "view"    : "views/page" }
-                            , { "view"    : "views/menu"  }
-                            , { "partial" : { "el"   : "#article"
-                                            , "page" : "title.html" } }
-                            , { "partial" : { "el"   : "#page"
-                                            , "page" : "about.html" } }
-                        ],
                         "contrib"  : [
                               { "view"    : "views/issue" }
                             , { "view"    : "views/page" }
