@@ -37,7 +37,6 @@
        "partial" : "partials/menu/page.html"     },
 
     {  "type"       : "menu",
-       "label"      : "Articles",
        "collection" : "collections/articles",
        "partial"    : "partials/menu/submenu.html",
        "item": {
