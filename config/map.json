@@ -18,7 +18,7 @@
         "zoomControl" : true
     },
     "tileLayer" : {
-        "url" : "https://{s}.tiles.mapbox.com/v3/andy-rutkowski/cjmgv4x1s71qo2rmpu9plnjx2/{z}/{x}/{y}.png",
+        "url" : "https://api.mapbox.com/styles/v1/andy-rutkowski/cjmgv4x1s71qo2rmpu9plnjx2/wmts?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiWDJRMFVUWSJ9.iHl6Cf0M79wmHQlfP6Bk8Q",
      
 
         "opts" : {
