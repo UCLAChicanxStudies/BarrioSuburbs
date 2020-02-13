@@ -18,8 +18,8 @@
         "zoomControl" : true
     },
     "tileLayer" : {
-         "url" : "https://{s}.tiles.mapbox.com/v3/kirschbombe.l007nm13/{z}/{x}/{y}.png",
-     
+         "url" : "https://api.mapbox.com/styles/v1/andy-rutkowski/cjnro2i1225ob2srvogi4em94/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiYW5keS1ydXRrb3dza2kiLCJhIjoiWDJRMFVUWSJ9.iHl6Cf0M79wmHQlfP6Bk8Q",
+    
 
         "opts" : {
             "minZoom" : 0,
