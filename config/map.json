@@ -18,8 +18,8 @@
         "zoomControl" : true
     },
     "tileLayer" : {
-        "url" : "https://api.mapbox.com/mapbox-gl-js/v1.7.0/mapbox-gl.js/andy-rutkowski.pfhec3ag/{z}/{x}/{y}.png",
-        
+        "url" : "https://{s}.tiles.mapbox.com/v3/andy-rutkowski/cjmgv4x1s71qo2rmpu9plnjx2/{z}/{x}/{y}.png",
+     
 
         "opts" : {
             "minZoom" : 0,
